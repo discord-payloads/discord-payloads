@@ -1,0 +1,181 @@
+{
+    "t": "INTERACTION_CREATE",
+    "s": 1,
+    "op": 0,
+    "d": {
+        "id": "999999999999999999",
+        "application_id": "999999999999999999",
+        "type": 2,
+        "data": {
+            "id": "935256542419255376",
+            "name": "foo",
+            "type": 1,
+            "resolved": {
+                "users": {
+                    "184040656761651200": {
+                        "id": "184040656761651200",
+                        "username": "Victorsitou",
+                        "discriminator": "7165",
+                        "avatar": "b8727f694ddcba11deb4bfbf6b59be20",
+                        "public_flags": 64
+                    }
+                },
+                "members": {
+                    "184040656761651200": {
+                        "nick": null,
+                        "avatar": null,
+                        "roles": [
+                            "999999999999999999",
+                            "999999999999999999",
+                            "999999999999999999"
+                        ],
+                        "joined_at": "2021-05-20T02: 46: 51.470000+00: 00",
+                        "premium_since": null,
+                        "pending": false,
+                        "is_pending": false,
+                        "permissions": "2199023255551",
+                        "communication_disabled_until": null
+                    }
+                },
+                "roles": {
+                    "999999999999999999": {
+                        "id": "999999999999999999",
+                        "name": "owner",
+                        "color": 0,
+                        "hoist": false,
+                        "icon": null,
+                        "unicode_emoji": null,
+                        "position": 11,
+                        "permissions": "8",
+                        "managed": false,
+                        "mentionable": false
+                    },
+                    "111111111111111111": {
+                        "id": "111111111111111111",
+                        "name": "moderator",
+                        "color": 0,
+                        "hoist": false,
+                        "icon": null,
+                        "unicode_emoji": null,
+                        "position": 15,
+                        "permissions": "6546771529",
+                        "managed": false,
+                        "mentionable": false
+                    }
+                },
+                "channels": {
+                    "999999999999999999": {
+                        "id": "999999999999999999",
+                        "type": 0,
+                        "name": "general",
+                        "parent_id": "999999999999999999",
+                        "permissions": "2199023255551"
+                    },
+                    "111111111111111111": {
+                        "id": "111111111111111111",
+                        "type": 11,
+                        "parent_id": "999999999999999999",
+                        "name": "moderators-and-admins",
+                        "thread_metadata": {
+                            "archived": false,
+                            "auto_archive_duration": 1440,
+                            "archive_timestamp": "2022-01-24T20: 55: 04.068000+00: 00",
+                            "locked": false,
+                            "create_timestamp": "2022-01-24T20: 55: 04.068000+00: 00"
+                        },
+                        "permissions": "2199023255551"
+                    }
+                }
+            },
+            "options": [
+                {
+                    "name": "bar",
+                    "type": 2,
+                    "options": [
+                        {
+                            "name": "baz",
+                            "type": 1,
+                            "options": [
+                                {
+                                    "name": "string",
+                                    "type": 3,
+                                    "value": "Hi"
+                                },
+                                {
+                                    "type": 4,
+                                    "name": "integer",
+                                    "value": 10
+                                },
+                                {
+                                    "name": "boolean",
+                                    "type": 5,
+                                    "value": true
+                                },
+                                {
+                                    "name": "user",
+                                    "type": 6,
+                                    "value": "184040656761651200"
+                                },
+                                {
+                                    "name": "channel",
+                                    "type": 7,
+                                    "value": "999999999999999999"
+                                },
+                                {
+                                    "name": "role",
+                                    "type": 8,
+                                    "value": "999999999999999999"
+                                },
+                                {
+                                    "name": "mentionable",
+                                    "type": 9,
+                                    "value": "111111111111111111"
+                                },
+                                {
+                                    "name": "float",
+                                    "type": 10,
+                                    "value": 123.456
+                                },
+                                {
+                                    "name": "thread",
+                                    "type": 7,
+                                    "value": "111111111111111111"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "guild_id": "999999999999999999",
+        "channel_id": "999999999999999999",
+        "member": {
+            "user": {
+                "id": "184040656761651200",
+                "username": "Victorsitou",
+                "discriminator": "7165",
+                "avatar": "b8727f694ddcba11deb4bfbf6b59be20",
+                "public_flags": 64
+            },
+            "nick": null,
+            "avatar": null,
+            "roles": [
+                "999999999999999999",
+                "999999999999999999",
+                "999999999999999999"
+            ],
+            "joined_at": "2021-05-20T02: 46: 51.470000+00: 00",
+            "premium_since": null,
+            "deaf": false,
+            "mute": false,
+            "pending": false,
+            "is_pending": false,
+            "permissions": "2199023255551",
+            "communication_disabled_until": null
+        },
+        "token": "unique_token",
+        "version": 1,
+        "locale": "en-US",
+        "guild_locale": "es-ES"
+    }
+}

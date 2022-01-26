@@ -1,0 +1,135 @@
+{
+    "t": "INTERACTION_CREATE",
+    "s": 1,
+    "op": 0,
+    "d": {
+        "id": "999999999999999999",
+        "application_id": "999999999999999999",
+        "type": 3,
+        "data": {
+            "custom_id": "button",
+            "component_type": 2
+        },
+        "guild_id": "999999999999999999",
+        "channel_id": "999999999999999999",
+        "member": {
+            "user": {
+                "id": "184040656761651200",
+                "username": "Victorsitou",
+                "discriminator": "7165",
+                "avatar": "b8727f694ddcba11deb4bfbf6b59be20",
+                "public_flags": 64
+            },
+            "nick": null,
+            "avatar": null,
+            "roles": [
+                "999999999999999999",
+                "999999999999999999",
+                "999999999999999999"
+            ],
+            "joined_at": "2021-05-20T02:46:51.470000+00:00",
+            "premium_since": null,
+            "deaf": false,
+            "mute": false,
+            "pending": false,
+            "is_pending": false,
+            "permissions": "2199023255551",
+            "communication_disabled_until": null
+        },
+        "token": "unique_token",
+        "version": 1,
+        "message": {
+            "id": "999999999999999999",
+            "channel_id": "999999999999999999",
+            "author": {
+                "id": "999999999999999999",
+                "username": "uyy ese hombre",
+                "discriminator": "1392",
+                "avatar": "d3f69ed9c823f5d3493cae1eb51951b0",
+                "bot": true,
+                "public_flags": 0
+            },
+            "content": "Here is it.",
+            "timestamp": "2022-01-25T03:07:46.430000+00:00",
+            "edited_timestamp": null,
+            "tts": false,
+            "mention_everyone": false,
+            "mentions": [],
+            "mention_roles": [],
+            "attachments": [],
+            "embeds": [],
+            "pinned": false,
+            "webhook_id": "999999999999999999",
+            "type": 20,
+            "application_id": "999999999999999999",
+            "flags": 0,
+            "interaction": {
+                "id": "999999999999999999",
+                "type": 2,
+                "name": "component",
+                "user": {
+                    "id": "184040656761651200",
+                    "username": "Victorsitou",
+                    "discriminator": "7165",
+                    "avatar": "b8727f694ddcba11deb4bfbf6b59be20",
+                    "public_flags": 64
+                }
+            },
+            "components": [
+                {
+                    "type": 1,
+                    "components": [
+                        {
+                            "type": 2,
+                            "style": 1,
+                            "label": "Click me!",
+                            "hash": "",
+                            "emoji": {
+                                "name": "\ud83d\ude01"
+                            },
+                            "custom_id": "click_me"
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "components": [
+                        {
+                            "type": 3,
+                            "custom_id": "select",
+                            "options": [
+                                {
+                                    "label": "Option 1",
+                                    "value": "1",
+                                    "emoji": {
+                                        "name": "\ud83d\udc4b"
+                                    }
+                                },
+                                {
+                                    "label": "Option 2",
+                                    "value": "2",
+                                    "emoji": {
+                                        "name": "\ud83d\udc4d"
+                                    }
+                                },
+                                {
+                                    "label": "Option 3",
+                                    "value": "3",
+                                    "emoji": {
+                                        "name": "\ud83e\udd19"
+                                    }
+                                }
+                            ],
+                            "placeholder": "Select an option",
+                            "min_values": 1,
+                            "max_values": 3,
+                            "hash": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "locale": "en-US",
+        "guild_locale": "es-ES"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "t": "INTERACTION_CREATE",
+    "s": 1,
+    "op": 0,
+    "d": {
+        "id": "999999999999999999",
+        "application_id": "999999999999999999",
+        "type": 2,
+        "data": {
+            "id": "999999999999999999",
+            "name": "user_cmd",
+            "type": 2,
+            "resolved": {
+                "users": {
+                    "184040656761651200": {
+                        "id": "184040656761651200",
+                        "username": "Victorsitou",
+                        "discriminator": "7165",
+                        "avatar": "b8727f694ddcba11deb4bfbf6b59be20",
+                        "public_flags": 64
+                    }
+                },
+                "members": {
+                    "184040656761651200": {
+                        "avatar": null,
+                        "nick": null,
+                        "roles": [
+                            "999999999999999999",
+                            "999999999999999999",
+                            "999999999999999999"
+                        ],
+                        "joined_at": "2021-05-20T02: 46: 51.470000+00: 00",
+                        "premium_since": null,
+                        "pending": false,
+                        "is_pending": false,
+                        "permissions": "2199023255551",
+                        "communication_disabled_until": null
+                    }
+                }
+            },
+            "target_id": "184040656761651200"
+        },
+        "guild_id": "999999999999999999",
+        "channel_id": "999999999999999999",
+        "member": {
+            "user": {
+                "username": "Victorsitou",
+                "public_flags": 64,
+                "id": "184040656761651200",
+                "discriminator": "7165",
+                "avatar": "b8727f694ddcba11deb4bfbf6b59be20"
+            },
+            "nick": null,
+            "avatar": null,
+            "roles": [
+                "999999999999999999",
+                "999999999999999999",
+                "999999999999999999"
+            ],
+            "joined_at": "2021-05-20T02: 46: 51.470000+00: 00",
+            "premium_since": null,
+            "deaf": false,
+            "mute": false,
+            "pending": false,
+            "is_pending": false,
+            "permissions": "2199023255551",
+            "communication_disabled_until": null
+        },
+        "token": "unique_token",
+        "version": 1,
+        "locale": "en-US",
+        "guild_locale": "es-ES"
+    }
+}

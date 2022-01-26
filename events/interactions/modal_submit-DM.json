@@ -1,0 +1,46 @@
+{
+    "t": "INTERACTION_CREATE",
+    "s": 1,
+    "op": 0,
+    "d": {
+        "id": "999999999999999999",
+        "application_id": "999999999999999999",
+        "type": 5,
+        "data": {
+            "custom_id": "my_modal",
+            "components": [
+                {
+                    "type": 1,
+                    "components": [
+                        {
+                            "value": "Hi there!",
+                            "type": 4,
+                            "custom_id": "input_1"
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "components": [
+                        {
+                            "value": "This is cool.",
+                            "type": 4,
+                            "custom_id": "input_2"
+                        }
+                    ]
+                }
+            ]
+        },
+        "channel_id": "999999999999999999",
+        "user": {
+            "id": "184040656761651200",
+            "username": "Victorsitou",
+            "discriminator": "7165",
+            "avatar": "a_84302c11d747e16cac1c646bb8efcf32",
+            "public_flags": 64
+        },
+        "token": "unique_token",
+        "version": 1,
+        "locale": "en-US"
+    }
+}

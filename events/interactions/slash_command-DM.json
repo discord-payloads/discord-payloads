@@ -1,0 +1,81 @@
+{
+    "t": "INTERACTION_CREATE",
+    "s": 1,
+    "op": 0,
+    "d": {
+        "id": "999999999999999999",
+        "application_id": "999999999999999999",
+        "type": 2,
+        "data": {
+            "id": "999999999999999999",
+            "name": "foo",
+            "type": 1,
+            "resolved": {
+                "users": {
+                    "184040656761651200": {
+                        "id": "184040656761651200",
+                        "username": "Victorsitou",
+                        "discriminator": "7165",
+                        "avatar": "b8727f694ddcba11deb4bfbf6b59be20",
+                        "public_flags": 64
+                    }
+                }
+            },
+            "options": [
+                {
+                    "name": "bar",
+                    "type": 2,
+                    "options": [
+                        {
+                            "name": "baz",
+                            "type": 1,
+                            "options": [
+                                {
+                                    "name": "string",
+                                    "type": 3,
+                                    "value": "Hi"
+                                },
+                                {
+                                    "name": "integer",
+                                    "type": 4,
+                                    "value": 10
+                                },
+                                {
+                                    "name": "boolean",
+                                    "type": 5,
+                                    "value": true
+                                },
+                                {
+                                    "name": "user",
+                                    "type": 6,
+                                    "value": "184040656761651200"
+                                },
+                                {
+                                    "name": "mentionable",
+                                    "type": 9,
+                                    "value": "184040656761651200"
+                                },
+                                {
+                                    "name": "float",
+                                    "type": 10,
+                                    "value": 123.456
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "channel_id": "999999999999999999",
+        "user": {
+            "id": "184040656761651200",
+            "username": "Victorsitou",
+            "discriminator": "7165",
+            "avatar": "b8727f694ddcba11deb4bfbf6b59be20",
+            "public_flags": 64
+        },
+        "token": "unique_token",
+        "version": 1,
+        "locale": "en-US"
+    }
+}
