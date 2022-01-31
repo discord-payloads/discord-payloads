@@ -1,0 +1,27 @@
+name: Wrong payload report
+description: Report about wrong payload
+labels: ["wrong payload"]
+body:
+  - type: markdown
+    attributes:
+      value: >
+        Thanks for taking your time to report a wrong payload.
+        If you need further information, feel free to join our [Discord Server](https://discord.gg/2ACeA4Mvug).
+  - type: textarea
+    attributes:
+      label: Summary
+      description: A brief summary of your wrong payload report.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: How it should be?
+      description: Please describe how the payload should be.
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: What file is it?
+      description: Please provide the link to the file where the payload is located.
+    validations:
+      required: true
