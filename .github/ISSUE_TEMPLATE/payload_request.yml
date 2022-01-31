@@ -12,6 +12,7 @@ body:
     attributes:
       label: Link to documentation
       description: Please provide the link to the documentation of the payload.
+      placeholder: https://discord.com/developers/docs/resources/guild
     validations:
       required: true
   - type: checkboxes
