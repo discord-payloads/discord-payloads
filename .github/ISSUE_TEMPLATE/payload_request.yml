@@ -1,0 +1,26 @@
+name: Payload request
+description: Suggest a new payload
+labels: ["payload request"]
+body:
+  - type: textarea
+    attributes:
+      label: Summary
+      description: A brief summary of your payload request.
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Link to documentation
+      description: Please provide the link to the documentation of the payload.
+      placeholder: https://discord.com/developers/docs/resources/guild
+    validations:
+      required: true
+  - type: checkboxes
+    attributes:
+      label: Checklist
+      description: Let's make sure you've properly done due diligence when requesting this payload.
+      options:
+        - label: I have searched the open issues for duplicates.
+          required: true
+        - label: I checked if the payload is already in the repository.
+          required: true
