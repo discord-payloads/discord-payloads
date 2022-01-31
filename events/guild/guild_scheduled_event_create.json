@@ -1,0 +1,24 @@
+{
+    "t": "GUILD_SCHEDULED_EVENT_CREATE",
+    "s": 1,
+    "op": 0,
+    "d": {
+        "id": "999999999999999999",
+        "guild_id": "999999999999999999",
+        "channel_id": null,
+        "creator_id": "184040656761651200",
+        "name": "devuelveme a mi chica :(",
+        "description": null,
+        "scheduled_start_time": "2022-01-31T22:00:00.974000+00:00",
+        "scheduled_end_time": "2022-02-01T00:00:00.974000+00:00",
+        "privacy_level": 2,
+        "status": 1,
+        "entity_type": 3,
+        "entity_id": null,
+        "entity_metadata": {
+            "location": "Madrid"
+        },
+        "sku_ids": [],
+        "image": null
+    }
+}
