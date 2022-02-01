@@ -1,0 +1,62 @@
+{
+    "t": "GUILD_MEMBERS_CHUNK",
+    "s": 1,
+    "op": 0,
+    "d": {
+        "guild_id": "999999999999999999",
+        "members": [
+            {
+                "user": {
+                    "id": "184040656761651200",
+                    "username": "Victorsitou",
+                    "discriminator": "7165",
+                    "avatar": "b8727f694ddcba11deb4bfbf6b59be20",
+                    "public_flags": 64
+                },
+                "roles": [
+                    "999999999999999999"
+                ],
+                "joined_at": "2022-01-16T01:06:06.869000+00:00",
+                "deaf": false,
+                "mute": false,
+                "hoisted_role": "999999999999999999"
+            },
+            {
+                "user": {
+                    "id": "321581335942529024",
+                    "username": "shiftinv",
+                    "discriminator": "9556",
+                    "avatar": "6a94c455070635f0c76ce654dd956ab6",
+                    "public_flags": 256
+                },
+                "roles": [
+                    "999999999999999999"
+                ],
+                "joined_at": "2022-01-17T14:33:52.931000+00:00",
+                "deaf": false,
+                "mute": false,
+                "hoisted_role": "999999999999999999"
+            },
+            {
+                "user": {
+                    "id": "903420229433044992",
+                    "username": "uyy ese hombre",
+                    "discriminator": "1392",
+                    "avatar": "d3f69ed9c823f5d3493cae1eb51951b0",
+                    "bot": true
+                },
+                "roles": [
+                    "999999999999999999",
+                    "999999999999999999"
+                ],
+                "joined_at": "2022-01-17T15:32:05.833000+00:00",
+                "deaf": false,
+                "mute": false,
+                "hoisted_role": null
+            }
+        ],
+        "chunk_index": 0,
+        "chunk_count": 1,
+        "nonce": "ca8f05abc8db5d9262440a8f2ebe98d4"
+    }
+}

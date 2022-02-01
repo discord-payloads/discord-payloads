@@ -1,0 +1,24 @@
+{
+    "t": "GUILD_MEMBER_UPDATE",
+    "s": 1,
+    "op": 0,
+    "d": {
+        "guild_id": "999999999999999999",
+        "roles": [],
+        "user": {
+            "id": "825130738432868354",
+            "username": "Nassau",
+            "discriminator": "2748",
+            "avatar": "3ed4d48e2a3bff204fb1e17a0ef94e44"
+        },
+        "nick": null,
+        "avatar": null,
+        "joined_at": "2022-02-01T16:46:33.655986+00:00",
+        "premium_since": null,
+        "deaf": false,
+        "mute": false,
+        "pending": false,
+        "communication_disabled_until": null,
+        "hoisted_role": null
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "t": "GUILD_MEMBER_REMOVE",
+    "s": 1,
+    "op": 0,
+    "d": {
+        "guild_id": "999999999999999999",
+        "user": {
+            "id": "825130738432868354",
+            "username": "Nassau",
+            "discriminator": "2748",
+            "avatar": "3ed4d48e2a3bff204fb1e17a0ef94e44",
+            "public_flags": 0
+        }
+    }
+}
