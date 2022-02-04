@@ -1,0 +1,77 @@
+{
+    "t": "GUILD_STICKERS_UPDATE",
+    "s": 1,
+    "op": 0,
+    "d": {
+        "guild_id": "999999999999999999",
+        "stickers": [
+            {
+                "id": "918830019399266344",
+                "name": "understandable",
+                "description": "Understandable. Have a great day",
+                "tags": "v",
+                "asset": "",
+                "type": 2,
+                "format_type": 1,
+                "available": true,
+                "guild_id": "999999999999999999"
+            },
+            {
+                "id": "934085206464421890",
+                "name": "shiftinv",
+                "description": "We all know what this is for.",
+                "tags": "slight_smile",
+                "asset": "",
+                "type": 2,
+                "format_type": 1,
+                "available": true,
+                "guild_id": "999999999999999999"
+            },
+            {
+                "id": "938020511315804201",
+                "name": "arl burnout",
+                "description": "equenos was talking about cats\n",
+                "tags": "exploding_head",
+                "asset": "",
+                "type": 2,
+                "format_type": 1,
+                "available": true,
+                "guild_id": "999999999999999999"
+            },
+            {
+                "id": "938826452407824435",
+                "name": "equenos",
+                "description": "We all know what this is for.\n",
+                "tags": "eyes",
+                "asset": "",
+                "type": 2,
+                "format_type": 1,
+                "available": true,
+                "guild_id": "999999999999999999"
+            },
+            {
+                "id": "939238883546239026",
+                "name": "temp",
+                "description": null,
+                "tags": "\ud83c\uddea\ud83c\uddf8",
+                "asset": "",
+                "type": 2,
+                "format_type": 1,
+                "available": true,
+                "guild_id": "999999999999999999"
+            }
+        ],
+        "guild_hashes": {
+            "version": 1,
+            "roles": {
+                "hash": "qnAwTjbt/ig"
+            },
+            "metadata": {
+                "hash": "F8zAXLE+54s"
+            },
+            "channels": {
+                "hash": "dEFtfKYdPlI"
+            }
+        }
+    }
+}
