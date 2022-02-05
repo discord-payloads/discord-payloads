@@ -2,3 +2,13 @@ venv/
 venvs/
 TODO.md
 *-test.json
+
+# Parsers
+parser/
+gateway_parser/
+endpoints/
+
+# Random stuff
+.py
+*.log
+.vscode/
