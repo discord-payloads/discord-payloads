@@ -1,0 +1,13 @@
+{
+    "t": "STAGE_INSTANCE_CREATE",
+    "s": 1,
+    "op": 0,
+    "d": {
+        "id": "999999999999999999",
+        "guild_id": "999999999999999999",
+        "channel_id": "999999999999999999",
+        "topic": "First event on this server!",
+        "privacy_level": 2,
+        "discoverable_disabled": false
+    }
+}

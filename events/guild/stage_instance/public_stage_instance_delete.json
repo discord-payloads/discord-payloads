@@ -1,0 +1,13 @@
+{
+    "t": "STAGE_INSTANCE_DELETE",
+    "s": 1,
+    "op": 0,
+    "d": {
+        "id": "999999999999999999",
+        "guild_id": "999999999999999999",
+        "channel_id": "999999999999999999",
+        "topic": "Wait no, this is the second event heh",
+        "privacy_level": 1,
+        "discoverable_disabled": false
+    }
+}
