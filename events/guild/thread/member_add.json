@@ -1,0 +1,52 @@
+{
+    "t": "THREAD_MEMBERS_UPDATE",
+    "s": 1,
+    "op": 0,
+    "d": {
+        "id": "999999999999999999",
+        "guild_id": "999999999999999999",
+        "member_count": 3,
+        "added_members": [
+            {
+                "id": "999999999999999999",
+                "user_id": "903420229433044992",
+                "join_timestamp": "2022-02-04T21:28:53.634145+00:00",
+                "flags": 0,
+                "member": {
+                    "user": {
+                        "id": "903420229433044992",
+                        "username": "uyy ese hombre",
+                        "discriminator": "1392",
+                        "avatar": "d3f69ed9c823f5d3493cae1eb51951b0",
+                        "bot": true
+                    },
+                    "nick": null,
+                    "avatar": null,
+                    "roles": [],
+                    "joined_at": "2021-11-05T15:49:31.829000+00:00",
+                    "premium_since": null,
+                    "pending": false,
+                    "deaf": false,
+                    "mute": false,
+                    "hoisted_role": null,
+                    "communication_disabled_until": "2021-12-21T03:02:37.899000+00:00"
+                },
+                "presence": {
+                    "user": {
+                        "id": "903420229433044992",
+                        "username": "uyy ese hombre",
+                        "discriminator": "1392",
+                        "avatar": "d3f69ed9c823f5d3493cae1eb51951b0",
+                        "bot": true
+                    },
+                    "status": "online",
+                    "game": null,
+                    "activities": [],
+                    "client_status": {
+                        "web": "online"
+                    }
+                }
+            }
+        ]
+    }
+}

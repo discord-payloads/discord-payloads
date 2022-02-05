@@ -1,0 +1,24 @@
+{
+    "t": "THREAD_UPDATE",
+    "s": 1,
+    "op": 0,
+    "d": {
+        "id": "999999999999999999",
+        "type": 11,
+        "guild_id": "999999999999999999",
+        "name": "thread-test",
+        "last_message_id": "999999999999999999",
+        "rate_limit_per_user": 0,
+        "owner_id": "184040656761651200",
+        "parent_id": "999999999999999999",
+        "message_count": 8,
+        "member_count": 3,
+        "thread_metadata": {
+            "archived": false,
+            "auto_archive_duration": 1440,
+            "archive_timestamp": "2022-02-04T21:40:36.445000+00:00",
+            "locked": false,
+            "create_timestamp": "2022-02-04T21:40:36.445000+00:00"
+        }
+    }
+}
