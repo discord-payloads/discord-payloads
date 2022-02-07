@@ -60,18 +60,6 @@
                 "available": true,
                 "guild_id": "999999999999999999"
             }
-        ],
-        "guild_hashes": {
-            "version": 1,
-            "roles": {
-                "hash": "qnAwTjbt/ig"
-            },
-            "metadata": {
-                "hash": "F8zAXLE+54s"
-            },
-            "channels": {
-                "hash": "dEFtfKYdPlI"
-            }
-        }
+        ]
     }
 }

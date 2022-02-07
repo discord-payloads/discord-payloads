@@ -15,18 +15,6 @@
             "permissions": "2171210157639",
             "managed": false,
             "mentionable": false
-        },
-        "guild_hashes": {
-            "version": 1,
-            "roles": {
-                "hash": "NdZKCsENheE"
-            },
-            "metadata": {
-                "hash": "jBFLeslNxHQ"
-            },
-            "channels": {
-                "hash": "pw3vUjmRegk"
-            }
         }
     }
 }

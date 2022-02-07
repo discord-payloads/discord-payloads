@@ -4,18 +4,6 @@
     "op": 0,
     "d": {
         "guild_id": "999999999999999999",
-        "role_id": "999999999999999999",
-        "guild_hashes": {
-            "version": 1,
-            "roles": {
-                "hash": "19JUFxJHvsY"
-            },
-            "metadata": {
-                "hash": "jBFLeslNxHQ"
-            },
-            "channels": {
-                "hash": "pw3vUjmRegk"
-            }
-        }
+        "role_id": "999999999999999999"
     }
 }
