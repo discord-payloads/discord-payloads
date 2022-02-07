@@ -1,0 +1,32 @@
+{
+    "t": "GUILD_ROLE_UPDATE",
+    "s": 1,
+    "op": 0,
+    "d": {
+        "guild_id": "999999999999999999",
+        "role": {
+            "id": "999999999999999999",
+            "name": "Admin",
+            "color": 15844367,
+            "hoist": false,
+            "icon": null,
+            "unicode_emoji": null,
+            "position": 2,
+            "permissions": "2171210157639",
+            "managed": false,
+            "mentionable": false
+        },
+        "guild_hashes": {
+            "version": 1,
+            "roles": {
+                "hash": "NdZKCsENheE"
+            },
+            "metadata": {
+                "hash": "jBFLeslNxHQ"
+            },
+            "channels": {
+                "hash": "pw3vUjmRegk"
+            }
+        }
+    }
+}
