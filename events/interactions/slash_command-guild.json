@@ -85,6 +85,19 @@
                         },
                         "permissions": "2199023255551"
                     }
+                },
+                "attachments": {
+                    "941549550278164500": {
+                        "id": "941549550278164500",
+                        "filename": "mood.jpg",
+                        "content_type": "image/jpeg",
+                        "size": 45337,
+                        "url": "https://cdn.discordapp.com/ephemeral-attachments/941466042859937894/941549550278164500/mood.jpg",
+                        "proxy_url": "https://media.discordapp.net/ephemeral-attachments/941466042859937894/941549550278164500/mood.jpg",
+                        "height": 564,
+                        "width": 564,
+                        "ephemeral": true
+                    }
                 }
             },
             "options": [
@@ -102,8 +115,8 @@
                                     "value": "Hi"
                                 },
                                 {
-                                    "type": 4,
                                     "name": "integer",
+                                    "type": 4,
                                     "value": 10
                                 },
                                 {
@@ -140,6 +153,11 @@
                                     "name": "thread",
                                     "type": 7,
                                     "value": "111111111111111111"
+                                },
+                                {
+                                    "name": "attachment",
+                                    "type": 11,
+                                    "value": "941549550278164500"
                                 }
                             ]
                         }
