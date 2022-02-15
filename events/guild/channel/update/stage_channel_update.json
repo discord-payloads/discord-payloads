@@ -1,0 +1,19 @@
+{
+    "t": "CHANNEL_UPDATE",
+    "s": 1,
+    "op": 0,
+    "d": {
+        "id": "999999999999999999",
+        "type": 13,
+        "guild_id": "999999999999999999",
+        "position": 1,
+        "permission_overwrites": [],
+        "name": "events",
+        "topic": null,
+        "nsfw": false,
+        "bitrate": 64000,
+        "user_limit": 10000,
+        "parent_id": "999999999999999999",
+        "rtc_region": null
+    }
+}

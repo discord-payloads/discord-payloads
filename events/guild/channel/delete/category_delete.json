@@ -1,0 +1,15 @@
+{
+    "t": "CHANNEL_DELETE",
+    "s": 1,
+    "op": 0,
+    "d": {
+        "id": "999999999999999999",
+        "type": 4,
+        "guild_id": "999999999999999999",
+        "position": 4,
+        "permission_overwrites": [],
+        "name": "category",
+        "nsfw": false,
+        "parent_id": null
+    }
+}

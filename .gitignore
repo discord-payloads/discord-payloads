@@ -2,6 +2,7 @@ venv/
 venvs/
 TODO.md
 *-test.json
+*-test.py
 
 # Parsers
 parser/
@@ -12,3 +13,5 @@ endpoints/
 .py
 *.log
 .vscode/
+unknown_fields.md
+*.env

@@ -1,0 +1,24 @@
+{
+    "t": "CHANNEL_DELETE",
+    "s": 1,
+    "op": 0,
+    "d": {
+        "id": "999999999999999999",
+        "type": 5,
+        "guild_id": "999999999999999999",
+        "position": 2,
+        "permission_overwrites": [
+            {
+                "id": "999999999999999999",
+                "type": 0,
+                "allow": "0",
+                "deny": "2048"
+            }
+        ],
+        "name": "announcements",
+        "topic": null,
+        "nsfw": false,
+        "last_message_id": null,
+        "parent_id": "999999999999999999"
+    }
+}

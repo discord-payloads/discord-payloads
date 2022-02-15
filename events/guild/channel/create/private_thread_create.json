@@ -1,0 +1,27 @@
+{
+    "t": "THREAD_CREATE",
+    "s": 1,
+    "op": 0,
+    "d": {
+        "id": "999999999999999999",
+        "type": 12,
+        "guild_id": "999999999999999999",
+        "name": "private-thread",
+        "last_message_id": null,
+        "rate_limit_per_user": 0,
+        "owner_id": "184040656761651200",
+        "parent_id": "999999999999999999",
+        "message_count": 0,
+        "member_count": 1,
+        "thread_metadata": {
+            "archived": false,
+            "auto_archive_duration": 4320,
+            "archive_timestamp": "2022-02-14T19:06:29.207000+00:00",
+            "locked": false,
+            "invitable": true,
+            "create_timestamp": "2022-02-14T19:06:29.207000+00:00"
+        },
+        "newly_created": true,
+        "flags": 0
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "t": "THREAD_UPDATE",
+    "s": 1,
+    "op": 0,
+    "d": {
+        "id": "999999999999999999",
+        "type": 11,
+        "guild_id": "999999999999999999",
+        "name": "public-thread",
+        "last_message_id": "999999999999999999",
+        "rate_limit_per_user": 0,
+        "owner_id": "184040656761651200",
+        "parent_id": "999999999999999999",
+        "message_count": 1,
+        "member_count": 2,
+        "thread_metadata": {
+            "archived": false,
+            "auto_archive_duration": 4320,
+            "archive_timestamp": "2022-02-14T20:37:50.680000+00:00",
+            "locked": false,
+            "create_timestamp": "2022-02-14T20:37:50.680000+00:00"
+        },
+        "flags": 0
+    }
+}
