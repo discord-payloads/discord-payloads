@@ -41,6 +41,88 @@
         },
         "token": "unique_token",
         "version": 1,
+        "message": {
+            "id": "999999999999999999",
+            "channel_id": "999999999999999999",
+            "author": {
+                "id": "999999999999999999",
+                "username": "uyy ese hombre, es maloo",
+                "public_flags": 0,
+                "discriminator": "1392",
+                "bot": true,
+                "avatar": "d3f69ed9c823f5d3493cae1eb51951b0"
+            },
+            "content": "This field is only present if the modal was sent through a component interaction.",
+            "timestamp": "2022-02-18T15:12:11.576000+00:00",
+            "edited_timestamp": null,
+            "tts": false,
+            "mention_everyone": false,
+            "mentions": [],
+            "mention_roles": [],
+            "attachments": [],
+            "embeds": [],
+            "pinned": false,
+            "webhook_id": "999999999999999999",
+            "type": 20,
+            "application_id": "999999999999999999",
+            "flags": 0,
+            "interaction": {
+                "id": "999999999999999999",
+                "type": 2,
+                "user": {
+                    "id": "184040656761651200",
+                    "username": "Victorsitou",
+                    "discriminator": "7165",
+                    "avatar": "4e94565677eff3404b6265560ced6e60",
+                    "public_flags": 64
+                },
+                "name": "components"
+            },
+            "components": [
+                {
+                    "type": 1,
+                    "components": [
+                        {
+                            "type": 2,
+                            "style": 1,
+                            "label": "Click me!",
+                            "emoji": {
+                                "name": "\ud83d\ude04"
+                            },
+                            "custom_id": "button"
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "components": [
+                        {
+                            "type": 3,
+                            "placeholder": "Select an option",
+                            "options": [
+                                {
+                                    "value": "option-1",
+                                    "label": "Option 1",
+                                    "emoji": {
+                                        "name": "\u270c\ufe0f"
+                                    }
+                                },
+                                {
+                                    "value": "option-2",
+                                    "label": "Option 2",
+                                    "emoji": {
+                                        "name": "\ud83d\udc4d"
+                                    }
+                                }
+                            ],
+                            "min_values": 1,
+                            "max_values": 1,
+                            "custom_id": "select"
+                        }
+                    ]
+                }
+            ]
+        },
         "locale": "en-US"
     }
 }
