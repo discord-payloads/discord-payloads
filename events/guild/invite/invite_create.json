@@ -3,12 +3,12 @@
     "s": 1,
     "op": 0,
     "d": {
-        "channel_id": "999999999999999999",
+        "channel_id": "100000000000000000",
         "code": "8e7tAJ2G",
         "created_at": "2022-02-01T00:33:54.098426+00:00",
-        "guild_id": "999999999999999999",
+        "guild_id": "200000000000000000",
         "inviter": {
-            "id": "184040656761651200",
+            "id": "300000000000000000",
             "username": "Victorsitou",
             "discriminator": "7165",
             "avatar": "b8727f694ddcba11deb4bfbf6b59be20",
