@@ -3,10 +3,10 @@
     "s": 1,
     "op": 0,
     "d": {
-        "guild_id": "999999999999999999",
+        "guild_id": "100000000000000000",
         "stickers": [
             {
-                "id": "918830019399266344",
+                "id": "200000000000000000",
                 "name": "understandable",
                 "description": "Understandable. Have a great day",
                 "tags": "v",
@@ -14,10 +14,10 @@
                 "type": 2,
                 "format_type": 1,
                 "available": true,
-                "guild_id": "999999999999999999"
+                "guild_id": "100000000000000000"
             },
             {
-                "id": "934085206464421890",
+                "id": "300000000000000000",
                 "name": "shiftinv",
                 "description": "We all know what this is for.",
                 "tags": "slight_smile",
@@ -25,10 +25,10 @@
                 "type": 2,
                 "format_type": 1,
                 "available": true,
-                "guild_id": "999999999999999999"
+                "guild_id": "100000000000000000"
             },
             {
-                "id": "938020511315804201",
+                "id": "400000000000000000",
                 "name": "arl burnout",
                 "description": "equenos was talking about cats\n",
                 "tags": "exploding_head",
@@ -36,10 +36,10 @@
                 "type": 2,
                 "format_type": 1,
                 "available": true,
-                "guild_id": "999999999999999999"
+                "guild_id": "100000000000000000"
             },
             {
-                "id": "938826452407824435",
+                "id": "500000000000000000",
                 "name": "equenos",
                 "description": "We all know what this is for.\n",
                 "tags": "eyes",
@@ -47,10 +47,10 @@
                 "type": 2,
                 "format_type": 1,
                 "available": true,
-                "guild_id": "999999999999999999"
+                "guild_id": "100000000000000000"
             },
             {
-                "id": "939238883546239026",
+                "id": "600000000000000000",
                 "name": "temp",
                 "description": null,
                 "tags": "\ud83c\uddea\ud83c\uddf8",
@@ -58,7 +58,7 @@
                 "type": 2,
                 "format_type": 1,
                 "available": true,
-                "guild_id": "999999999999999999"
+                "guild_id": "100000000000000000"
             }
         ]
     }
