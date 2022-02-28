@@ -1,0 +1,37 @@
+{
+    "t": "GUILD_EMOJIS_UPDATE",
+    "s": 1,
+    "op": 0,
+    "d": {
+        "guild_id": "100000000000000000",
+        "emojis": [
+            {
+                "id": "200000000000000000",
+                "name": "otter",
+                "roles": [],
+                "require_colons": true,
+                "managed": false,
+                "animated": false,
+                "available": true
+            },
+            {
+                "id": "300000000000000000",
+                "name": "otter2",
+                "roles": [],
+                "require_colons": true,
+                "managed": false,
+                "animated": false,
+                "available": true
+            },
+            {
+                "id": "400000000000000000",
+                "name": "seele",
+                "roles": [],
+                "require_colons": true,
+                "managed": false,
+                "animated": false,
+                "available": true
+            }
+        ]
+    }
+}
