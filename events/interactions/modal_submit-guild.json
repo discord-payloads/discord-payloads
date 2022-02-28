@@ -63,7 +63,7 @@
             "id": "900000000000000000",
             "channel_id": "400000000000000000",
             "author": {
-                "id": "110000000000000000",
+                "id": "200000000000000000",
                 "username": "uyy ese hombre, es maloo",
                 "public_flags": 0,
                 "discriminator": "1392",
@@ -87,14 +87,14 @@
             "interaction": {
                 "id": "120000000000000000",
                 "type": 2,
+                "name": "components",
                 "user": {
                     "id": "130000000000000000",
                     "username": "Victorsitou",
                     "discriminator": "7165",
                     "avatar": "4e94565677eff3404b6265560ced6e60",
                     "public_flags": 64
-                },
-                "name": "components"
+                }
             },
             "components": [
                 {

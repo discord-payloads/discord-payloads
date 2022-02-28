@@ -47,10 +47,10 @@
             "author": {
                 "id": "600000000000000000",
                 "username": "uyy ese hombre, es maloo",
-                "public_flags": 0,
                 "discriminator": "1392",
+                "avatar": "d3f69ed9c823f5d3493cae1eb51951b0",
                 "bot": true,
-                "avatar": "d3f69ed9c823f5d3493cae1eb51951b0"
+                "public_flags": 0
             },
             "content": "This field is only present if the modal was sent through a component interaction.",
             "timestamp": "2022-02-18T15:12:11.576000+00:00",
@@ -69,14 +69,14 @@
             "interaction": {
                 "id": "700000000000000000",
                 "type": 2,
+                "name": "components",
                 "user": {
                     "id": "800000000000000000",
                     "username": "Victorsitou",
                     "discriminator": "7165",
                     "avatar": "4e94565677eff3404b6265560ced6e60",
                     "public_flags": 64
-                },
-                "name": "components"
+                }
             },
             "components": [
                 {
