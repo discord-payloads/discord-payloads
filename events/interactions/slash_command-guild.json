@@ -82,7 +82,8 @@
                             "locked": false,
                             "create_timestamp": "2022-01-24T20: 55: 04.068000+00: 00"
                         },
-                        "permissions": "2199023255551"
+                        "permissions": "2199023255551",
+                        "flags": 0
                     }
                 },
                 "attachments": {
