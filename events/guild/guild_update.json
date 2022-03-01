@@ -1,0 +1,194 @@
+{
+    "t": "GUILD_UPDATE",
+    "s": 1,
+    "op": 0,
+    "d": {
+        "id": "100000000000000000",
+        "name": "Discord Payloads",
+        "icon": null,
+        "splash": null,
+        "discovery_splash": null,
+        "owner_id": "200000000000000000",
+        "region": "deprecated",
+        "afk_channel_id": null,
+        "afk_timeout": 300,
+        "widget_enabled": false,
+        "widget_channel_id": null,
+        "verification_level": 1,
+        "default_message_notifications": 1,
+        "explicit_content_filter": 2,
+        "roles": [
+            {
+                "id": "100000000000000000",
+                "name": "@everyone",
+                "color": 0,
+                "hoist": false,
+                "icon": null,
+                "unicode_emoji": null,
+                "position": 0,
+                "permissions": "1071698529857",
+                "managed": false,
+                "mentionable": false
+            },
+            {
+                "id": "300000000000000000",
+                "name": "Moderator",
+                "color": 3066993,
+                "hoist": true,
+                "icon": null,
+                "unicode_emoji": null,
+                "position": 7,
+                "permissions": "2199023251159",
+                "managed": false,
+                "mentionable": false
+            },
+            {
+                "id": "400000000000000000",
+                "name": "Collaborator",
+                "color": 3447003,
+                "hoist": true,
+                "icon": null,
+                "unicode_emoji": null,
+                "position": 8,
+                "permissions": "1071698529865",
+                "managed": false,
+                "mentionable": false
+            },
+            {
+                "id": "500000000000000000",
+                "name": "uyy ese hombre",
+                "color": 0,
+                "hoist": false,
+                "icon": null,
+                "unicode_emoji": null,
+                "position": 5,
+                "permissions": "2199023255543",
+                "managed": true,
+                "mentionable": false,
+                "tags": {
+                    "bot_id": "600000000000000000"
+                }
+            },
+            {
+                "id": "700000000000000000",
+                "name": "otter",
+                "color": 0,
+                "hoist": false,
+                "icon": null,
+                "unicode_emoji": null,
+                "position": 9,
+                "permissions": "2199023255551",
+                "managed": false,
+                "mentionable": false
+            },
+            {
+                "id": "800000000000000000",
+                "name": "Ingenuity",
+                "color": 0,
+                "hoist": false,
+                "icon": null,
+                "unicode_emoji": null,
+                "position": 4,
+                "permissions": "3072",
+                "managed": true,
+                "mentionable": false,
+                "tags": {
+                    "bot_id": "900000000000000000"
+                }
+            },
+            {
+                "id": "110000000000000000",
+                "name": "Bots",
+                "color": 15105570,
+                "hoist": true,
+                "icon": null,
+                "unicode_emoji": null,
+                "position": 6,
+                "permissions": "1071698529857",
+                "managed": false,
+                "mentionable": false
+            },
+            {
+                "id": "120000000000000000",
+                "name": "hidden bots",
+                "color": 0,
+                "hoist": false,
+                "icon": null,
+                "unicode_emoji": null,
+                "position": 2,
+                "permissions": "1071698529857",
+                "managed": false,
+                "mentionable": false
+            },
+            {
+                "id": "130000000000000000",
+                "name": "vip",
+                "color": 0,
+                "hoist": false,
+                "icon": null,
+                "unicode_emoji": null,
+                "position": 1,
+                "permissions": "1071698529857",
+                "managed": false,
+                "mentionable": false
+            },
+            {
+                "id": "140000000000000000",
+                "name": "DP",
+                "color": 0,
+                "hoist": false,
+                "icon": null,
+                "unicode_emoji": null,
+                "position": 1,
+                "permissions": "8",
+                "managed": true,
+                "mentionable": false,
+                "tags": {
+                    "bot_id": "150000000000000000"
+                }
+            }
+        ],
+        "emojis": [
+            {
+                "id": "160000000000000000",
+                "name": "otter",
+                "roles": [],
+                "require_colons": true,
+                "managed": false,
+                "animated": false,
+                "available": true
+            },
+            {
+                "id": "170000000000000000",
+                "name": "seele",
+                "roles": [],
+                "require_colons": true,
+                "managed": false,
+                "animated": false,
+                "available": true
+            }
+        ],
+        "features": [
+            "NEWS",
+            "COMMUNITY"
+        ],
+        "mfa_level": 0,
+        "application_id": null,
+        "system_channel_id": "180000000000000000",
+        "system_channel_flags": 14,
+        "rules_channel_id": "190000000000000000",
+        "max_presences": null,
+        "max_members": 500000,
+        "vanity_url_code": null,
+        "description": "This is the server for Discord Payloads!",
+        "banner": null,
+        "premium_tier": 0,
+        "premium_subscription_count": 0,
+        "preferred_locale": "en-US",
+        "public_updates_channel_id": "210000000000000000",
+        "max_video_channel_users": 25,
+        "nsfw_level": 0,
+        "stickers": [],
+        "premium_progress_bar_enabled": false
+    }
+}
