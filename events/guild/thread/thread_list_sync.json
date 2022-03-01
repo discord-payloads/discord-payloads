@@ -1,0 +1,60 @@
+{
+    "t": "THREAD_LIST_SYNC",
+    "s": 1,
+    "op": 0,
+    "d": {
+        "guild_id": "100000000000000000",
+        "channel_ids": [
+            "200000000000000000",
+            "300000000000000000"
+        ],
+        "threads": [
+            {
+                "id": "400000000000000000",
+                "type": 11,
+                "guild_id": "100000000000000000",
+                "name": "aBC",
+                "last_message_id": "500000000000000000",
+                "rate_limit_per_user": 0,
+                "owner_id": "600000000000000000",
+                "parent_id": "200000000000000000",
+                "message_count": 50,
+                "member_count": 4,
+                "thread_metadata": {
+                    "archived": false,
+                    "auto_archive_duration": 4320,
+                    "archive_timestamp": "2022-02-24T02:16:37.920000+00:00",
+                    "locked": false,
+                    "create_timestamp": "2022-02-24T02:16:37.920000+00:00"
+                }
+            },
+            {
+                "id": "700000000000000000",
+                "type": 11,
+                "guild_id": "100000000000000000",
+                "name": "aaaaaaa",
+                "last_message_id": "800000000000000000",
+                "rate_limit_per_user": 0,
+                "owner_id": "900000000000000000",
+                "parent_id": "300000000000000000",
+                "message_count": 0,
+                "member_count": 2,
+                "thread_metadata": {
+                    "archived": false,
+                    "auto_archive_duration": 1440,
+                    "archive_timestamp": "2022-03-01T19:42:18.276497+00:00",
+                    "locked": false,
+                    "create_timestamp": "2022-03-01T19:42:18.276497+00:00"
+                }
+            }
+        ],
+        "members": [
+            {
+                "id": "400000000000000000",
+                "user_id": "110000000000000000",
+                "join_timestamp": "2022-02-28T18:56:10.780343+00:00",
+                "flags": 0
+            }
+        ]
+    }
+}
