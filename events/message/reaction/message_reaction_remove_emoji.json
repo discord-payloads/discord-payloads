@@ -1,0 +1,14 @@
+{
+    "t": "MESSAGE_REACTION_REMOVE_EMOJI",
+    "s": 1,
+    "op": 0,
+    "d": {
+        "channel_id": "100000000000000000",
+        "guild_id": "200000000000000000",
+        "message_id": "300000000000000000",
+        "emoji": {
+            "id": "400000000000000000",
+            "name": "otter"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "t": "MESSAGE_REACTION_REMOVE",
+    "s": 1,
+    "op": 0,
+    "d": {
+        "user_id": "100000000000000000",
+        "channel_id": "200000000000000000",
+        "message_id": "300000000000000000",
+        "emoji": {
+            "id": null,
+            "name": "\ud83d\udc4d"
+        }
+    }
+}
