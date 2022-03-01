@@ -1,0 +1,9 @@
+{
+    "t": "CHANNEL_PINS_UPDATE",
+    "s": 1,
+    "op": 0,
+    "d": {
+        "channel_id": "100000000000000000",
+        "last_pin_timestamp": "2022-03-01T16:27:34+00:00"
+    }
+}
