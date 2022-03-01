@@ -1,0 +1,39 @@
+{
+    "t": "INTEGRATION_CREATE",
+    "s": 1,
+    "op": 0,
+    "d": {
+        "id": "100000000000000000",
+        "name": "DP",
+        "type": "discord",
+        "enabled": true,
+        "user": {
+            "id": "200000000000000000",
+            "username": "Victorsitou",
+            "discriminator": "7165",
+            "avatar": "b84364ca97c35a7dfd1e399d941f9d68",
+            "public_flags": 64
+        },
+        "account": {
+            "name": "DP",
+            "id": "300000000000000000"
+        },
+        "application": {
+            "id": "300000000000000000",
+            "name": "DP",
+            "icon": null,
+            "description": "https://github.com/discord-payloads/discord-payloads",
+            "summary": "",
+            "type": null,
+            "bot": {
+                "id": "300000000000000000",
+                "username": "DP",
+                "discriminator": "6083",
+                "avatar": "f31b6b53df1ce416a6682c66851ca365",
+                "bot": true,
+                "public_flags": 0
+            }
+        },
+        "guild_id": "400000000000000000"
+    }
+}
