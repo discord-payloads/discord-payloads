@@ -1,0 +1,812 @@
+{
+    "t": "GUILD_CREATE",
+    "s": 1,
+    "op": 0,
+    "d": {
+        "id": "100000000000000000",
+        "name": "Discord Payloads",
+        "icon": null,
+        "splash": null,
+        "discovery_splash": null,
+        "owner_id": "200000000000000000",
+        "region": "deprecated",
+        "afk_channel_id": null,
+        "afk_timeout": 300,
+        "verification_level": 1,
+        "default_message_notifications": 1,
+        "explicit_content_filter": 2,
+        "roles": [
+            {
+                "id": "100000000000000000",
+                "name": "@everyone",
+                "color": 0,
+                "hoist": false,
+                "icon": null,
+                "unicode_emoji": null,
+                "position": 0,
+                "permissions": "1071698529857",
+                "managed": false,
+                "mentionable": false
+            },
+            {
+                "id": "300000000000000000",
+                "name": "Moderator",
+                "color": 3066993,
+                "hoist": true,
+                "icon": null,
+                "unicode_emoji": null,
+                "position": 7,
+                "permissions": "2199023251159",
+                "managed": false,
+                "mentionable": false
+            },
+            {
+                "id": "400000000000000000",
+                "name": "Collaborator",
+                "color": 3447003,
+                "hoist": true,
+                "icon": null,
+                "unicode_emoji": null,
+                "position": 8,
+                "permissions": "1071698529865",
+                "managed": false,
+                "mentionable": false
+            },
+            {
+                "id": "500000000000000000",
+                "name": "uyy ese hombre",
+                "color": 0,
+                "hoist": false,
+                "icon": null,
+                "unicode_emoji": null,
+                "position": 5,
+                "permissions": "2199023255543",
+                "managed": true,
+                "mentionable": false,
+                "tags": {
+                    "bot_id": "600000000000000000"
+                }
+            },
+            {
+                "id": "700000000000000000",
+                "name": "otter",
+                "color": 0,
+                "hoist": false,
+                "icon": null,
+                "unicode_emoji": null,
+                "position": 9,
+                "permissions": "2199023255551",
+                "managed": false,
+                "mentionable": false
+            },
+            {
+                "id": "800000000000000000",
+                "name": "Ingenuity",
+                "color": 0,
+                "hoist": false,
+                "icon": null,
+                "unicode_emoji": null,
+                "position": 4,
+                "permissions": "3072",
+                "managed": true,
+                "mentionable": false,
+                "tags": {
+                    "bot_id": "900000000000000000"
+                }
+            },
+            {
+                "id": "110000000000000000",
+                "name": "Bots",
+                "color": 15105570,
+                "hoist": true,
+                "icon": null,
+                "unicode_emoji": null,
+                "position": 6,
+                "permissions": "1071698529857",
+                "managed": false,
+                "mentionable": false
+            },
+            {
+                "id": "120000000000000000",
+                "name": "Hydra",
+                "color": 0,
+                "hoist": false,
+                "icon": null,
+                "unicode_emoji": null,
+                "position": 3,
+                "permissions": "37088592",
+                "managed": true,
+                "mentionable": false,
+                "tags": {
+                    "bot_id": "130000000000000000"
+                }
+            },
+            {
+                "id": "140000000000000000",
+                "name": "hidden bots",
+                "color": 0,
+                "hoist": false,
+                "icon": null,
+                "unicode_emoji": null,
+                "position": 2,
+                "permissions": "1071698529857",
+                "managed": false,
+                "mentionable": false
+            },
+            {
+                "id": "150000000000000000",
+                "name": "vip",
+                "color": 0,
+                "hoist": false,
+                "icon": null,
+                "unicode_emoji": null,
+                "position": 1,
+                "permissions": "1071698529857",
+                "managed": false,
+                "mentionable": false
+            },
+            {
+                "id": "160000000000000000",
+                "name": "DP",
+                "color": 0,
+                "hoist": false,
+                "icon": null,
+                "unicode_emoji": null,
+                "position": 1,
+                "permissions": "8",
+                "managed": true,
+                "mentionable": false,
+                "tags": {
+                    "bot_id": "170000000000000000"
+                }
+            }
+        ],
+        "emojis": [
+            {
+                "id": "180000000000000000",
+                "name": "otter",
+                "roles": [],
+                "require_colons": true,
+                "managed": false,
+                "animated": false,
+                "available": true
+            },
+            {
+                "id": "190000000000000000",
+                "name": "seele",
+                "roles": [],
+                "require_colons": true,
+                "managed": false,
+                "animated": false,
+                "available": true
+            }
+        ],
+        "features": [
+            "NEWS",
+            "COMMUNITY"
+        ],
+        "mfa_level": 0,
+        "application_id": null,
+        "system_channel_id": "210000000000000000",
+        "system_channel_flags": 14,
+        "rules_channel_id": "220000000000000000",
+        "joined_at": "2022-01-17T15:32:05.833000+00:00",
+        "large": false,
+        "unavailable": false,
+        "member_count": 12,
+        "voice_states": [
+            {
+                "channel_id": "230000000000000000",
+                "user_id": "240000000000000000",
+                "session_id": "7086d20fca824ddb221ba96bdc071bfd",
+                "deaf": false,
+                "mute": false,
+                "self_deaf": false,
+                "self_mute": true,
+                "self_video": false,
+                "suppress": false,
+                "request_to_speak_timestamp": null
+            }
+        ],
+        "members": [
+            {
+                "user": {
+                    "id": "250000000000000000",
+                    "username": "Victorsitou",
+                    "discriminator": "7165",
+                    "avatar": "b84364ca97c35a7dfd1e399d941f9d68",
+                    "public_flags": 64
+                },
+                "roles": [
+                    "400000000000000000"
+                ],
+                "joined_at": "2022-01-16T01:06:06.869000+00:00",
+                "deaf": false,
+                "mute": false,
+                "hoisted_role": "400000000000000000"
+            },
+            {
+                "user": {
+                    "id": "260000000000000000",
+                    "username": "uyy ese hombre, es maloo",
+                    "discriminator": "1392",
+                    "avatar": "d3f69ed9c823f5d3493cae1eb51951b0",
+                    "bot": true
+                },
+                "nick": null,
+                "avatar": null,
+                "roles": [
+                    "400000000000000000",
+                    "110000000000000000",
+                    "700000000000000000"
+                ],
+                "joined_at": "2022-01-17T15:32:05.833000+00:00",
+                "premium_since": null,
+                "deaf": false,
+                "mute": false,
+                "pending": false,
+                "communication_disabled_until": null,
+                "hoisted_role": "110000000000000000"
+            }
+        ],
+        "channels": [
+            {
+                "id": "270000000000000000",
+                "type": 4,
+                "position": 1,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "140000000000000000",
+                        "deny": "1024",
+                        "allow": "0"
+                    }
+                ],
+                "name": "Text Channels",
+                "nsfw": false,
+                "parent_id": null
+            },
+            {
+                "id": "210000000000000000",
+                "type": 0,
+                "position": 3,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "140000000000000000",
+                        "deny": "1024",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "100000000000000000",
+                        "deny": "0",
+                        "allow": "0"
+                    }
+                ],
+                "name": "general",
+                "topic": null,
+                "nsfw": false,
+                "last_message_id": "280000000000000000",
+                "rate_limit_per_user": 0,
+                "parent_id": "270000000000000000"
+            },
+            {
+                "id": "290000000000000000",
+                "type": 4,
+                "position": 0,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "100000000000000000",
+                        "deny": "103079217152",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "140000000000000000",
+                        "deny": "1024",
+                        "allow": "0"
+                    }
+                ],
+                "name": "announcements",
+                "nsfw": false,
+                "parent_id": null
+            },
+            {
+                "id": "310000000000000000",
+                "type": 5,
+                "position": 1,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "100000000000000000",
+                        "deny": "103079217152",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "140000000000000000",
+                        "deny": "1024",
+                        "allow": "0"
+                    }
+                ],
+                "name": "announcements",
+                "topic": null,
+                "nsfw": false,
+                "last_message_id": "320000000000000000",
+                "rate_limit_per_user": 0,
+                "parent_id": "290000000000000000"
+            },
+            {
+                "id": "330000000000000000",
+                "type": 0,
+                "position": 2,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "100000000000000000",
+                        "deny": "103079217152",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "140000000000000000",
+                        "deny": "1024",
+                        "allow": "0"
+                    }
+                ],
+                "name": "github",
+                "topic": null,
+                "nsfw": false,
+                "last_message_id": "340000000000000000",
+                "rate_limit_per_user": 0,
+                "parent_id": "290000000000000000"
+            },
+            {
+                "id": "220000000000000000",
+                "type": 0,
+                "position": 0,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "100000000000000000",
+                        "deny": "103079217152",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "140000000000000000",
+                        "deny": "1024",
+                        "allow": "0"
+                    }
+                ],
+                "name": "rules",
+                "topic": null,
+                "nsfw": false,
+                "last_message_id": "350000000000000000",
+                "rate_limit_per_user": 0,
+                "parent_id": "290000000000000000"
+            },
+            {
+                "id": "360000000000000000",
+                "type": 0,
+                "position": 4,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "300000000000000000",
+                        "deny": "0",
+                        "allow": "1024"
+                    },
+                    {
+                        "type": 0,
+                        "id": "100000000000000000",
+                        "deny": "1024",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "400000000000000000",
+                        "deny": "0",
+                        "allow": "1024"
+                    }
+                ],
+                "name": "moderator-only",
+                "topic": null,
+                "last_message_id": "370000000000000000",
+                "rate_limit_per_user": 0,
+                "parent_id": "380000000000000000"
+            },
+            {
+                "id": "380000000000000000",
+                "type": 4,
+                "position": 3,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "100000000000000000",
+                        "deny": "1049600",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "300000000000000000",
+                        "deny": "0",
+                        "allow": "1049600"
+                    },
+                    {
+                        "type": 0,
+                        "id": "400000000000000000",
+                        "deny": "0",
+                        "allow": "1049600"
+                    },
+                    {
+                        "type": 0,
+                        "id": "140000000000000000",
+                        "deny": "0",
+                        "allow": "3146752"
+                    },
+                    {
+                        "type": 0,
+                        "id": "150000000000000000",
+                        "deny": "0",
+                        "allow": "1049600"
+                    }
+                ],
+                "name": "private-channels",
+                "nsfw": false,
+                "parent_id": null
+            },
+            {
+                "id": "390000000000000000",
+                "type": 0,
+                "position": 6,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "100000000000000000",
+                        "deny": "1049600",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "300000000000000000",
+                        "deny": "0",
+                        "allow": "1049600"
+                    },
+                    {
+                        "type": 0,
+                        "id": "400000000000000000",
+                        "deny": "0",
+                        "allow": "1049600"
+                    },
+                    {
+                        "type": 0,
+                        "id": "140000000000000000",
+                        "deny": "0",
+                        "allow": "3146752"
+                    },
+                    {
+                        "type": 0,
+                        "id": "150000000000000000",
+                        "deny": "0",
+                        "allow": "1049600"
+                    }
+                ],
+                "name": "general",
+                "topic": null,
+                "nsfw": false,
+                "last_message_id": "410000000000000000",
+                "rate_limit_per_user": 0,
+                "parent_id": "380000000000000000",
+                "last_pin_timestamp": "2022-03-01T16:27:06+00:00"
+            },
+            {
+                "id": "420000000000000000",
+                "type": 0,
+                "position": 5,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "100000000000000000",
+                        "deny": "1049600",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "300000000000000000",
+                        "deny": "0",
+                        "allow": "1049600"
+                    },
+                    {
+                        "type": 0,
+                        "id": "400000000000000000",
+                        "deny": "0",
+                        "allow": "1049600"
+                    },
+                    {
+                        "type": 0,
+                        "id": "140000000000000000",
+                        "deny": "0",
+                        "allow": "3146752"
+                    },
+                    {
+                        "type": 0,
+                        "id": "150000000000000000",
+                        "deny": "0",
+                        "allow": "1049600"
+                    }
+                ],
+                "name": "stars-\u2b50",
+                "topic": null,
+                "nsfw": false,
+                "last_message_id": "430000000000000000",
+                "rate_limit_per_user": 0,
+                "parent_id": "380000000000000000"
+            },
+            {
+                "id": "440000000000000000",
+                "type": 0,
+                "position": 8,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "150000000000000000",
+                        "deny": "0",
+                        "allow": "1049600"
+                    },
+                    {
+                        "type": 0,
+                        "id": "100000000000000000",
+                        "deny": "1049600",
+                        "allow": "0"
+                    }
+                ],
+                "name": "i-want-payloads",
+                "topic": null,
+                "nsfw": false,
+                "last_message_id": "450000000000000000",
+                "rate_limit_per_user": 0,
+                "parent_id": "540000000000000000",
+                "last_pin_timestamp": "2022-02-04T18:03:10+00:00"
+            },
+            {
+                "id": "460000000000000000",
+                "type": 0,
+                "position": 7,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "400000000000000000",
+                        "deny": "0",
+                        "allow": "1024"
+                    },
+                    {
+                        "type": 0,
+                        "id": "100000000000000000",
+                        "deny": "1024",
+                        "allow": "0"
+                    }
+                ],
+                "name": "discord-api-docs",
+                "topic": "Notifications when a commit is pushed in discord-api-docs.",
+                "nsfw": false,
+                "last_message_id": "470000000000000000",
+                "rate_limit_per_user": 0,
+                "parent_id": "380000000000000000"
+            },
+            {
+                "id": "480000000000000000",
+                "type": 0,
+                "position": 9,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "150000000000000000",
+                        "deny": "0",
+                        "allow": "1049600"
+                    },
+                    {
+                        "type": 0,
+                        "id": "100000000000000000",
+                        "deny": "1049600",
+                        "allow": "0"
+                    }
+                ],
+                "name": "commands",
+                "topic": null,
+                "nsfw": false,
+                "last_message_id": "490000000000000000",
+                "rate_limit_per_user": 0,
+                "parent_id": "540000000000000000"
+            },
+            {
+                "id": "510000000000000000",
+                "type": 2,
+                "position": 0,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "100000000000000000",
+                        "deny": "1049600",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "140000000000000000",
+                        "deny": "0",
+                        "allow": "36701184"
+                    }
+                ],
+                "name": "m-u-s-i-c",
+                "nsfw": false,
+                "last_message_id": null,
+                "bitrate": 64000,
+                "user_limit": 0,
+                "parent_id": "380000000000000000",
+                "rtc_region": null
+            },
+            {
+                "id": "520000000000000000",
+                "type": 0,
+                "position": 10,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "100000000000000000",
+                        "deny": "1049600",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "150000000000000000",
+                        "deny": "0",
+                        "allow": "1049600"
+                    }
+                ],
+                "name": "testing-http-sorting",
+                "topic": null,
+                "nsfw": false,
+                "last_message_id": "530000000000000000",
+                "rate_limit_per_user": 0,
+                "parent_id": "540000000000000000"
+            },
+            {
+                "id": "230000000000000000",
+                "type": 13,
+                "position": 0,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "100000000000000000",
+                        "deny": "1049600",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "300000000000000000",
+                        "deny": "0",
+                        "allow": "1049600"
+                    },
+                    {
+                        "type": 0,
+                        "id": "400000000000000000",
+                        "deny": "0",
+                        "allow": "1049600"
+                    },
+                    {
+                        "type": 0,
+                        "id": "140000000000000000",
+                        "deny": "0",
+                        "allow": "3146752"
+                    },
+                    {
+                        "type": 0,
+                        "id": "150000000000000000",
+                        "deny": "0",
+                        "allow": "1049600"
+                    }
+                ],
+                "name": "stage-channel",
+                "topic": null,
+                "nsfw": false,
+                "bitrate": 64000,
+                "user_limit": 10000,
+                "parent_id": "380000000000000000",
+                "rtc_region": null
+            },
+            {
+                "id": "540000000000000000",
+                "type": 4,
+                "position": 4,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "100000000000000000",
+                        "deny": "1049600",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "150000000000000000",
+                        "deny": "0",
+                        "allow": "1049600"
+                    }
+                ],
+                "name": "private-testing",
+                "nsfw": false,
+                "parent_id": null
+            }
+        ],
+        "threads": [
+            {
+                "id": "550000000000000000",
+                "type": 11,
+                "guild_id": "100000000000000000",
+                "name": "aBC",
+                "last_message_id": "560000000000000000",
+                "rate_limit_per_user": 0,
+                "owner_id": "570000000000000000",
+                "parent_id": "390000000000000000",
+                "message_count": 50,
+                "member_count": 4,
+                "thread_metadata": {
+                    "archived": false,
+                    "auto_archive_duration": 4320,
+                    "archive_timestamp": "2022-02-24T02:16:37.920000+00:00",
+                    "locked": false,
+                    "create_timestamp": "2022-02-24T02:16:37.920000+00:00"
+                },
+                "member": {
+                    "muted": false,
+                    "mute_config": null,
+                    "join_timestamp": "2022-02-28T18:56:10.780343+00:00",
+                    "flags": 0
+                }
+            }
+        ],
+        "presences": [],
+        "max_members": 250000,
+        "vanity_url_code": null,
+        "description": "This is the server for Discord Payloads!",
+        "banner": null,
+        "premium_tier": 0,
+        "premium_subscription_count": 0,
+        "preferred_locale": "en-US",
+        "public_updates_channel_id": "360000000000000000",
+        "max_video_channel_users": 25,
+        "nsfw_level": 0,
+        "stage_instances": [
+            {
+                "id": "580000000000000000",
+                "guild_id": "100000000000000000",
+                "channel_id": "230000000000000000",
+                "topic": "hey",
+                "privacy_level": 2,
+                "discoverable_disabled": false,
+                "guild_scheduled_event_id": "590000000000000000"
+            }
+        ],
+        "stickers": [],
+        "guild_scheduled_events": [
+            {
+                "id": "590000000000000000",
+                "guild_id": "100000000000000000",
+                "channel_id": "230000000000000000",
+                "creator_id": "240000000000000000",
+                "name": "hey",
+                "description": null,
+                "scheduled_start_time": "2022-03-03T18:45:00.879000+00:00",
+                "scheduled_end_time": null,
+                "privacy_level": 2,
+                "status": 2,
+                "entity_type": 1,
+                "entity_id": "580000000000000000",
+                "entity_metadata": {},
+                "image": null
+            }
+        ],
+        "premium_progress_bar_enabled": false
+    }
+}
