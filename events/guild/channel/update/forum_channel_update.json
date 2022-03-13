@@ -19,6 +19,14 @@
         "topic": null,
         "nsfw": false,
         "last_message_id": "400000000000000000",
-        "parent_id": "500000000000000000"
+        "parent_id": "500000000000000000",
+        "available_tags": [
+            {
+                "id": "600000000000000000",
+                "name": "otter",
+                "emoji_id": "700000000000000000",
+                "emoji_name": "cute_otter"
+            }
+        ]
     }
 }
