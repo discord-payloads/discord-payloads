@@ -1,0 +1,40 @@
+{
+    "t": "PRESENCE_UPDATE",
+    "s": 1,
+    "op": 0,
+    "d": {
+        "user": {
+            "id": "100000000000000000"
+        },
+        "status": "dnd",
+        "activities": [
+            {
+                "type": 4,
+                "created_at": 1646139697957,
+                "state": "Por que queremos aparentar tanta maldad?"
+            },
+            {
+                "name": "Spotify",
+                "type": 2,
+                "created_at": 1646171594657,
+                "timestamps": {
+                    "start": 1646171594065,
+                    "end": 1646171866691
+                },
+                "details": "Venezia",
+                "state": "Hombres G",
+                "party": {
+                    "id": "spotify:100000000000000000"
+                },
+                "assets": {
+                    "large_text": "Lo Mejor De Los Hombres G",
+                    "large_image": "spotify:ab67616d0000b273b1c351478a62d23cb2a4446e"
+                },
+                "flags": 48
+            }
+        ],
+        "client_status": {
+            "web": "dnd"
+        }
+    }
+}

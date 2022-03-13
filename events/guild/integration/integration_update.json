@@ -1,0 +1,31 @@
+{
+    "t": "INTEGRATION_UPDATE",
+    "s": 1,
+    "op": 0,
+    "d": {
+        "id": "100000000000000000",
+        "name": "twitch-subs",
+        "type": "twitch",
+        "enabled": true,
+        "syncing": false,
+        "role_id": "200000000000000000",
+        "enable_emoticons": true,
+        "expire_behavior": 0,
+        "expire_grace_period": 30,
+        "user": {
+            "id": "300000000000000000",
+            "username": "Victorsitou",
+            "discriminator": "7165",
+            "avatar": "b84364ca97c35a7dfd1e399d941f9d68",
+            "public_flags": 64
+        },
+        "account": {
+            "id": "47373397",
+            "name": "Victorsitou"
+        },
+        "synced_at": "2022-02-18T09:12:13.289000+00:00",
+        "subscriber_count": 1,
+        "revoked": false,
+        "guild_id": "400000000000000000"
+    }
+}
