@@ -227,7 +227,7 @@
             },
             {
                 "user": {
-                    "id": "260000000000000000",
+                    "id": "600000000000000000",
                     "username": "uyy ese hombre, es maloo",
                     "discriminator": "1392",
                     "avatar": "d3f69ed9c823f5d3493cae1eb51951b0",
@@ -251,7 +251,7 @@
         ],
         "channels": [
             {
-                "id": "270000000000000000",
+                "id": "260000000000000000",
                 "type": 4,
                 "position": 1,
                 "permission_overwrites": [
@@ -287,12 +287,12 @@
                 "name": "general",
                 "topic": null,
                 "nsfw": false,
-                "last_message_id": "280000000000000000",
+                "last_message_id": "270000000000000000",
                 "rate_limit_per_user": 0,
-                "parent_id": "270000000000000000"
+                "parent_id": "260000000000000000"
             },
             {
-                "id": "290000000000000000",
+                "id": "280000000000000000",
                 "type": 4,
                 "position": 0,
                 "permission_overwrites": [
@@ -314,7 +314,7 @@
                 "parent_id": null
             },
             {
-                "id": "310000000000000000",
+                "id": "290000000000000000",
                 "type": 5,
                 "position": 1,
                 "permission_overwrites": [
@@ -334,12 +334,12 @@
                 "name": "announcements",
                 "topic": null,
                 "nsfw": false,
-                "last_message_id": "320000000000000000",
+                "last_message_id": "310000000000000000",
                 "rate_limit_per_user": 0,
-                "parent_id": "290000000000000000"
+                "parent_id": "280000000000000000"
             },
             {
-                "id": "330000000000000000",
+                "id": "320000000000000000",
                 "type": 0,
                 "position": 2,
                 "permission_overwrites": [
@@ -359,9 +359,9 @@
                 "name": "github",
                 "topic": null,
                 "nsfw": false,
-                "last_message_id": "340000000000000000",
+                "last_message_id": "330000000000000000",
                 "rate_limit_per_user": 0,
-                "parent_id": "290000000000000000"
+                "parent_id": "280000000000000000"
             },
             {
                 "id": "220000000000000000",
@@ -384,12 +384,12 @@
                 "name": "rules",
                 "topic": null,
                 "nsfw": false,
-                "last_message_id": "350000000000000000",
+                "last_message_id": "340000000000000000",
                 "rate_limit_per_user": 0,
-                "parent_id": "290000000000000000"
+                "parent_id": "280000000000000000"
             },
             {
-                "id": "360000000000000000",
+                "id": "350000000000000000",
                 "type": 0,
                 "position": 4,
                 "permission_overwrites": [
@@ -414,7 +414,7 @@
                 ],
                 "name": "moderator-only",
                 "topic": null,
-                "last_message_id": "370000000000000000",
+                "last_message_id": "360000000000000000",
                 "rate_limit_per_user": 0,
                 "parent_id": "380000000000000000"
             },
@@ -774,7 +774,7 @@
         "premium_tier": 0,
         "premium_subscription_count": 0,
         "preferred_locale": "en-US",
-        "public_updates_channel_id": "360000000000000000",
+        "public_updates_channel_id": "350000000000000000",
         "max_video_channel_users": 25,
         "nsfw_level": 0,
         "stage_instances": [
