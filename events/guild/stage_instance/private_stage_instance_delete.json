@@ -8,6 +8,7 @@
         "channel_id": "300000000000000000",
         "topic": "Wait no, this is the second event heh",
         "privacy_level": 2,
-        "discoverable_disabled": false
+        "discoverable_disabled": false,
+        "guild_scheduled_event_id": "400000000000000000"
     }
 }
