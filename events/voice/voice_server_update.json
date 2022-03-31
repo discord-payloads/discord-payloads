@@ -1,0 +1,10 @@
+{
+    "t": "VOICE_SERVER_UPDATE",
+    "s": 1,
+    "op": 0,
+    "d": {
+        "token": "5a2857d05633abf7",
+        "guild_id": "100000000000000000",
+        "endpoint": "santiago8909.discord.media:443"
+    }
+}
