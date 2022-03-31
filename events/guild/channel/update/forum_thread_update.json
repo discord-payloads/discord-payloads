@@ -1,0 +1,29 @@
+{
+    "t": "THREAD_UPDATE",
+    "s": 1,
+    "op": 0,
+    "d": {
+        "id": "100000000000000000",
+        "type": 11,
+        "guild_id": "200000000000000000",
+        "name": "Are otters cute?",
+        "last_message_id": null,
+        "rate_limit_per_user": 0,
+        "owner_id": "300000000000000000",
+        "parent_id": "400000000000000000",
+        "message_count": 0,
+        "member_count": 1,
+        "thread_metadata": {
+            "archived": false,
+            "auto_archive_duration": 4320,
+            "archive_timestamp": "2022-03-31T03:09:59.785000+00:00",
+            "locked": false,
+            "create_timestamp": "2022-03-31T03:09:59.785000+00:00"
+        },
+        "flags": 2,
+        "applied_tags": [
+            "500000000000000000",
+            "600000000000000000"
+        ]
+    }
+}
