@@ -78,9 +78,9 @@
                         "thread_metadata": {
                             "archived": false,
                             "auto_archive_duration": 1440,
-                            "archive_timestamp": "2022-01-24T20: 55: 04.068000+00: 00",
+                            "archive_timestamp": "2022-01-24T20:55:04.068000+00:00",
                             "locked": false,
-                            "create_timestamp": "2022-01-24T20: 55: 04.068000+00: 00"
+                            "create_timestamp": "2022-01-24T20:55:04.068000+00:00"
                         },
                         "permissions": "2199023255551"
                     }
