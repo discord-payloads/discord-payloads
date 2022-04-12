@@ -21,6 +21,21 @@
         "last_message_id": "400000000000000000",
         "rate_limit_per_user": 60,
         "parent_id": "500000000000000000",
-        "default_auto_archive_duration": 1440
+        "default_auto_archive_duration": 1440,
+        "available_tags": [
+            {
+                "id": "600000000000000000",
+                "name": "otter",
+                "emoji_id": "700000000000000000",
+                "emoji_name": null
+            },
+            {
+                "id": "800000000000000000",
+                "name": "cat",
+                "emoji_id": 0,
+                "emoji_name": "\ud83d\udc31"
+            }
+        ],
+        "template": "I love otters! <3"
     }
 }

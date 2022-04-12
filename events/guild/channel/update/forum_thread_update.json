@@ -20,6 +20,9 @@
             "locked": false,
             "create_timestamp": "2022-03-31T03:09:59.785000+00:00"
         },
-        "flags": 2
+        "flags": 2,
+        "applied_tags": [
+            "500000000000000000"
+        ]
     }
 }
