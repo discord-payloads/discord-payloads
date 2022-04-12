@@ -20,7 +20,6 @@
         "nsfw": false,
         "last_message_id": "400000000000000000",
         "rate_limit_per_user": 0,
-        "parent_id": "500000000000000000",
-        "available_tags": []
+        "parent_id": "500000000000000000"
     }
 }
