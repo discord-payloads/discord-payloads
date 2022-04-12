@@ -26,7 +26,8 @@
                     "archive_timestamp": "2022-02-24T02:16:37.920000+00:00",
                     "locked": false,
                     "create_timestamp": "2022-02-24T02:16:37.920000+00:00"
-                }
+                },
+                "flags": 0
             },
             {
                 "id": "700000000000000000",
@@ -45,7 +46,8 @@
                     "archive_timestamp": "2022-03-01T19:42:18.276497+00:00",
                     "locked": false,
                     "create_timestamp": "2022-03-01T19:42:18.276497+00:00"
-                }
+                },
+                "flags": 0
             }
         ],
         "members": [
