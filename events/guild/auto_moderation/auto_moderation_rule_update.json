@@ -4,8 +4,8 @@
     "op": 0,
     "d": {
         "id": "100000000000000000",
-        "name": "Keyword Filter",
         "guild_id": "20000000000000000",
+        "name": "Keyword Filter",
         "creator_id": "30000000000000000",
         "event_type": 1,
         "trigger_type": 1,
