@@ -25,6 +25,12 @@
                 "metadata": {
                     "channel_id": "400000000000000000"
                 }
+            },
+            {
+                "type": 3,
+                "metadata": {
+                    "duration_seconds": 600
+                }
             }
         ],
         "enabled": false,
