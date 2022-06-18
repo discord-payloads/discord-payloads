@@ -13,8 +13,8 @@
         "rule_id": "300000000000000000",
         "rule_trigger_type": 1,
         "channel_id": "40000000000000000",
-        "message_id": null,
-        "alert_system_message_id": "500000000000000000",
+        "message_id": "500000000000000000",
+        "alert_system_message_id": "600000000000000000",
         "content": "you're stupid",
         "matched_keyword": "stupid",
         "matched_content": "stupid"

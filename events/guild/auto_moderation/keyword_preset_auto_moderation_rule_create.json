@@ -10,10 +10,10 @@
         "event_type": 1,
         "trigger_type": 4,
         "trigger_metadata": {
-            "keyword_lists": [
-                "SLURS",
-                "SEXUAL_CONTENT",
-                "PROFANITY"
+            "presets": [
+                1,
+                2,
+                3
             ]
         },
         "actions": [
