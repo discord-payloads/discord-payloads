@@ -191,6 +191,7 @@
         },
         "token": "unique_token",
         "version": 1,
+        "app_permissions": "2199023255543",
         "locale": "en-US",
         "guild_locale": "es-ES"
     }
