@@ -14,6 +14,9 @@
                 1,
                 2,
                 3
+            ],
+            "allow_list": [
+                "feo"
             ]
         },
         "actions": [
