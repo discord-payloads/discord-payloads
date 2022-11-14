@@ -4,9 +4,9 @@
     "op": 0,
     "d": {
         "id": "100000000000000000",
-        "type": 11,
+        "type": 12,
         "guild_id": "200000000000000000",
-        "name": "public-thread",
+        "name": "private-thread",
         "last_message_id": null,
         "rate_limit_per_user": 0,
         "owner_id": "300000000000000000",
