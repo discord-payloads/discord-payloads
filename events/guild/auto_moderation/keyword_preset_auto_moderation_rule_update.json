@@ -16,7 +16,7 @@
                 3
             ],
             "allow_list": [
-                "feo"
+                "cat"
             ]
         },
         "actions": [
@@ -31,7 +31,7 @@
                 }
             }
         ],
-        "enabled": true,
+        "enabled": false,
         "exempt_roles": [
             "500000000000000000",
             "600000000000000000"
