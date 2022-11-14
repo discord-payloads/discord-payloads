@@ -5,14 +5,17 @@
     "d": {
         "id": "100000000000000000",
         "guild_id": "20000000000000000",
-        "name": "Keyword Filter",
+        "name": "Custom Keyword Rule",
         "creator_id": "30000000000000000",
         "event_type": 1,
         "trigger_type": 1,
         "trigger_metadata": {
+            "regex_patterns": [
+                "c[a-z]t"
+            ],
             "keyword_filter": [
-                "stupid",
-                "ugly"
+                "cat",
+                "dog"
             ]
         },
         "actions": [
@@ -29,11 +32,11 @@
             {
                 "type": 3,
                 "metadata": {
-                    "duration_seconds": 600
+                    "duration_seconds": 60
                 }
             }
         ],
-        "enabled": false,
+        "enabled": true,
         "exempt_roles": [
             "500000000000000000"
         ],
