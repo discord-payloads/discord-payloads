@@ -4,9 +4,9 @@
     "op": 0,
     "d": {
         "id": "100000000000000000",
-        "type": 12,
+        "type": 11,
         "guild_id": "200000000000000000",
-        "name": "private-thread",
+        "name": "public-thread",
         "last_message_id": null,
         "rate_limit_per_user": 0,
         "owner_id": "300000000000000000",
@@ -15,13 +15,13 @@
         "member_count": 1,
         "thread_metadata": {
             "archived": false,
-            "auto_archive_duration": 4320,
-            "archive_timestamp": "2022-02-14T19:06:29.207000+00:00",
+            "auto_archive_duration": 1440,
+            "archive_timestamp": "2022-11-14T21:56:37.062000+00:00",
             "locked": false,
-            "invitable": true,
-            "create_timestamp": "2022-02-14T19:06:29.207000+00:00"
+            "create_timestamp": "2022-11-14T21:56:37.062000+00:00"
         },
-        "newly_created": true,
-        "flags": 0
+        "flags": 0,
+        "total_message_sent": 0,
+        "newly_created": true
     }
 }
