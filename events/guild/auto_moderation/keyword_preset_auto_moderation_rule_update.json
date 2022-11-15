@@ -31,7 +31,7 @@
                 }
             }
         ],
-        "enabled": false,
+        "enabled": true,
         "exempt_roles": [
             "500000000000000000",
             "600000000000000000"
