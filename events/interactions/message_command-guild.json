@@ -19,31 +19,17 @@
                             "id": "600000000000000000",
                             "username": "Victorsitou",
                             "discriminator": "7165",
-                            "avatar": "b8727f694ddcba11deb4bfbf6b59be20",
-                            "public_flags": 64
+                            "avatar": "ad454a821e0ecfb3d8357dad0053a36b",
+                            "public_flags": 4194368
                         },
-                        "content": "Hi admins, this is Hombres G. <@&700000000000000000>",
-                        "timestamp": "2022-01-25T01:12:22.285000+00:00",
+                        "content": "Hi",
+                        "timestamp": "2022-11-15T17:53:45.426000+00:00",
                         "edited_timestamp": null,
                         "tts": false,
                         "mention_everyone": false,
                         "mentions": [],
-                        "mention_roles": [
-                            "700000000000000000"
-                        ],
-                        "attachments": [
-                            {
-                                "id": "800000000000000000",
-                                "filename": "hombres-g.jpg",
-                                "description": "Hombres G yay",
-                                "content_type": "image/jpeg",
-                                "size": 44613,
-                                "url": "https://cdn.discordapp.com/attachments/500000000000000000/800000000000000000/hombres-g.jpg",
-                                "proxy_url": "https://media.discordapp.net/attachments/500000000000000000/800000000000000000/hombres-g.jpg",
-                                "height": 492,
-                                "width": 500
-                            }
-                        ],
+                        "mention_roles": [],
+                        "attachments": [],
                         "embeds": [],
                         "pinned": false,
                         "type": 0,
@@ -54,36 +40,33 @@
             },
             "target_id": "400000000000000000"
         },
-        "guild_id": "900000000000000000",
+        "guild_id": "700000000000000000",
         "channel_id": "500000000000000000",
         "member": {
             "user": {
-                "id": "110000000000000000",
+                "id": "800000000000000000",
                 "username": "Victorsitou",
                 "discriminator": "7165",
-                "avatar": "b8727f694ddcba11deb4bfbf6b59be20",
-                "public_flags": 64
+                "avatar": "ad454a821e0ecfb3d8357dad0053a36b",
+                "public_flags": 4194368
             },
-            "nick": null,
+            "nick": "Victor",
             "avatar": null,
             "roles": [
-                "120000000000000000",
-                "130000000000000000",
-                "140000000000000000"
+                "900000000000000000"
             ],
-            "joined_at": "2021-05-20T02: 46: 51.470000+00: 00",
+            "joined_at": "2022-01-16T01:06:06.869000+00:00",
             "premium_since": null,
             "deaf": false,
             "mute": false,
             "pending": false,
-            "is_pending": false,
-            "permissions": "2199023255551",
+            "permissions": "4398046511103",
             "communication_disabled_until": null
         },
         "token": "unique_token",
         "version": 1,
-        "app_permissions": "2199023255543",
-        "locale": "en-US",
-        "guild_locale": "es-ES"
+        "app_permissions": "4398046511103",
+        "locale": "en-GB",
+        "guild_locale": "en-US"
     }
 }
