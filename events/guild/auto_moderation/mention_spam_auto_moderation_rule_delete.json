@@ -1,5 +1,5 @@
 {
-    "t": "AUTO_MODERATION_RULE_UPDATE",
+    "t": "AUTO_MODERATION_RULE_DELETE",
     "s": 1,
     "op": 0,
     "d": {
@@ -26,7 +26,7 @@
             {
                 "type": 3,
                 "metadata": {
-                    "duration_seconds": 60
+                    "duration_seconds": 600
                 }
             }
         ],
