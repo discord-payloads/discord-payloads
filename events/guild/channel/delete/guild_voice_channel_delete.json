@@ -4,23 +4,26 @@
     "op": 0,
     "d": {
         "id": "100000000000000000",
-        "type": 13,
+        "type": 2,
         "guild_id": "200000000000000000",
-        "position": 0,
+        "position": 5,
         "permission_overwrites": [
             {
                 "id": "300000000000000000",
                 "type": 0,
-                "allow": "0",
-                "deny": "1049600"
+                "allow": "1049600",
+                "deny": "0"
             }
         ],
-        "name": "events",
-        "topic": null,
+        "name": "voice_channel",
         "nsfw": false,
-        "bitrate": 64000,
-        "user_limit": 10000,
+        "last_message_id": null,
+        "bitrate": 81000,
+        "user_limit": 15,
+        "rate_limit_per_user": 0,
         "parent_id": "400000000000000000",
-        "rtc_region": null
+        "rtc_region": "brazil",
+        "video_quality_mode": 2,
+        "flags": 0
     }
 }
