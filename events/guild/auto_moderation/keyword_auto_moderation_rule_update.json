@@ -32,11 +32,11 @@
             {
                 "type": 3,
                 "metadata": {
-                    "duration_seconds": 60
+                    "duration_seconds": 600
                 }
             }
         ],
-        "enabled": false,
+        "enabled": true,
         "exempt_roles": [
             "500000000000000000",
             "600000000000000000"
