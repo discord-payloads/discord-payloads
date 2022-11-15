@@ -6,14 +6,15 @@
         "id": "100000000000000000",
         "type": 13,
         "guild_id": "200000000000000000",
-        "position": 1,
+        "position": 2,
         "permission_overwrites": [],
-        "name": "events",
+        "name": "stage-channel",
         "topic": null,
         "nsfw": false,
-        "bitrate": 64000,
+        "bitrate": 53000,
         "user_limit": 10000,
         "parent_id": "300000000000000000",
-        "rtc_region": null
+        "rtc_region": "brazil",
+        "flags": 0
     }
 }

@@ -6,20 +6,21 @@
         "id": "100000000000000000",
         "type": 10,
         "guild_id": "200000000000000000",
-        "name": "news-threads",
+        "name": "announcement-thread",
         "last_message_id": "300000000000000000",
         "rate_limit_per_user": 0,
         "owner_id": "400000000000000000",
         "parent_id": "500000000000000000",
         "message_count": 1,
-        "member_count": 2,
+        "member_count": 1,
         "thread_metadata": {
-            "archived": false,
-            "auto_archive_duration": 4320,
-            "archive_timestamp": "2022-02-14T20:38:08.766000+00:00",
+            "archived": true,
+            "auto_archive_duration": 1440,
+            "archive_timestamp": "2022-11-15T00:43:06.550876+00:00",
             "locked": false,
-            "create_timestamp": "2022-02-14T20:38:08.766000+00:00"
+            "create_timestamp": "2022-11-14T21:56:07.863000+00:00"
         },
-        "flags": 0
+        "flags": 0,
+        "total_message_sent": 1
     }
 }
