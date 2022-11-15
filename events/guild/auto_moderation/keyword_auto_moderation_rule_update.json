@@ -1,5 +1,5 @@
 {
-    "t": "AUTO_MODERATION_RULE_DELETE",
+    "t": "AUTO_MODERATION_RULE_UPDATE",
     "s": 1,
     "op": 0,
     "d": {

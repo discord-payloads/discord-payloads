@@ -4,9 +4,9 @@
     "op": 0,
     "d": {
         "id": "100000000000000000",
-        "guild_id": "20000000000000000",
+        "guild_id": "200000000000000000",
         "name": "Custom Keyword Rule",
-        "creator_id": "30000000000000000",
+        "creator_id": "300000000000000000",
         "event_type": 1,
         "trigger_type": 1,
         "trigger_metadata": {
