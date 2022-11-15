@@ -14,10 +14,18 @@
                 "users": {
                     "400000000000000000": {
                         "id": "400000000000000000",
+                        "username": "uyy ese hombre, es malooo",
+                        "discriminator": "1392",
+                        "avatar": "d3f69ed9c823f5d3493cae1eb51951b0",
+                        "bot": true,
+                        "public_flags": 0
+                    },
+                    "500000000000000000": {
+                        "id": "500000000000000000",
                         "username": "Victorsitou",
                         "discriminator": "7165",
-                        "avatar": "b8727f694ddcba11deb4bfbf6b59be20",
-                        "public_flags": 64
+                        "avatar": "ad454a821e0ecfb3d8357dad0053a36b",
+                        "public_flags": 4194368
                     }
                 },
                 "members": {
@@ -25,39 +33,37 @@
                         "nick": null,
                         "avatar": null,
                         "roles": [
-                            "500000000000000000",
-                            "600000000000000000"
+                            "700000000000000000"
                         ],
-                        "joined_at": "2021-05-20T02: 46: 51.470000+00: 00",
+                        "joined_at": "2022-01-17T15:32:05.833000+00:00",
                         "premium_since": null,
                         "pending": false,
-                        "is_pending": false,
-                        "permissions": "2199023255551",
+                        "permissions": "4398046511103",
+                        "communication_disabled_until": null
+                    },
+                    "500000000000000000": {
+                        "nick": "Victor",
+                        "avatar": null,
+                        "roles": [
+                            "800000000000000000"
+                        ],
+                        "joined_at": "2022-01-16T01:06:06.869000+00:00",
+                        "premium_since": null,
+                        "pending": false,
+                        "permissions": "4398046511103",
                         "communication_disabled_until": null
                     }
                 },
                 "roles": {
-                    "700000000000000000": {
-                        "id": "700000000000000000",
-                        "name": "owner",
-                        "color": 0,
-                        "hoist": false,
+                    "600000000000000000": {
+                        "id": "600000000000000000",
+                        "name": "Collaborator",
+                        "color": 3447003,
+                        "hoist": true,
                         "icon": null,
                         "unicode_emoji": null,
                         "position": 11,
-                        "permissions": "8",
-                        "managed": false,
-                        "mentionable": false
-                    },
-                    "800000000000000000": {
-                        "id": "800000000000000000",
-                        "name": "moderator",
-                        "color": 0,
-                        "hoist": false,
-                        "icon": null,
-                        "unicode_emoji": null,
-                        "position": 15,
-                        "permissions": "6546771529",
+                        "permissions": "2190164881223",
                         "managed": false,
                         "mentionable": false
                     }
@@ -65,36 +71,37 @@
                 "channels": {
                     "900000000000000000": {
                         "id": "900000000000000000",
-                        "type": 0,
-                        "name": "general",
-                        "parent_id": "110000000000000000",
-                        "permissions": "2199023255551"
-                    },
-                    "120000000000000000": {
-                        "id": "120000000000000000",
                         "type": 11,
-                        "parent_id": "130000000000000000",
-                        "name": "moderators-and-admins",
+                        "position": 0,
+                        "name": "PR 10",
+                        "parent_id": "110000000000000000",
                         "thread_metadata": {
                             "archived": false,
                             "auto_archive_duration": 1440,
-                            "archive_timestamp": "2022-01-24T20:55:04.068000+00:00",
+                            "archive_timestamp": "2022-11-14T22:22:42.368000+00:00",
                             "locked": false,
-                            "create_timestamp": "2022-01-24T20:55:04.068000+00:00"
+                            "create_timestamp": "2022-11-14T22:22:42.368000+00:00"
                         },
-                        "permissions": "2199023255551"
+                        "permissions": "4398046511103"
+                    },
+                    "120000000000000000": {
+                        "id": "120000000000000000",
+                        "type": 0,
+                        "position": 0,
+                        "name": "rules",
+                        "permissions": "4398046511103"
                     }
                 },
                 "attachments": {
-                    "140000000000000000": {
-                        "id": "140000000000000000",
-                        "filename": "mood.jpg",
+                    "130000000000000000": {
+                        "id": "130000000000000000",
+                        "filename": "20221106_160506.jpg",
                         "content_type": "image/jpeg",
-                        "size": 45337,
-                        "url": "https://cdn.discordapp.com/ephemeral-attachments/300000000000000000/140000000000000000/mood.jpg",
-                        "proxy_url": "https://media.discordapp.net/ephemeral-attachments/300000000000000000/140000000000000000/mood.jpg",
-                        "height": 564,
-                        "width": 564,
+                        "size": 1669562,
+                        "url": "https://cdn.discordapp.com/ephemeral-attachments/300000000000000000/130000000000000000/20221106_160506.jpg",
+                        "proxy_url": "https://media.discordapp.net/ephemeral-attachments/300000000000000000/130000000000000000/20221106_160506.jpg",
+                        "height": 1836,
+                        "width": 3264,
                         "ephemeral": true
                     }
                 }
@@ -111,7 +118,7 @@
                                 {
                                     "name": "string",
                                     "type": 3,
-                                    "value": "Hi"
+                                    "value": "cat"
                                 },
                                 {
                                     "name": "integer",
@@ -126,37 +133,37 @@
                                 {
                                     "name": "user",
                                     "type": 6,
-                                    "value": "400000000000000000"
+                                    "value": "500000000000000000"
                                 },
                                 {
                                     "name": "channel",
                                     "type": 7,
-                                    "value": "900000000000000000"
+                                    "value": "120000000000000000"
                                 },
                                 {
                                     "name": "role",
                                     "type": 8,
-                                    "value": "700000000000000000"
+                                    "value": "600000000000000000"
                                 },
                                 {
                                     "name": "mentionable",
                                     "type": 9,
-                                    "value": "800000000000000000"
+                                    "value": "400000000000000000"
                                 },
                                 {
                                     "name": "float",
                                     "type": 10,
-                                    "value": 123.456
+                                    "value": 1.2
                                 },
                                 {
                                     "name": "thread",
                                     "type": 7,
-                                    "value": "120000000000000000"
+                                    "value": "900000000000000000"
                                 },
                                 {
                                     "name": "attachment",
                                     "type": 11,
-                                    "value": "140000000000000000"
+                                    "value": "130000000000000000"
                                 }
                             ]
                         }
@@ -164,35 +171,33 @@
                 }
             ]
         },
-        "guild_id": "150000000000000000",
-        "channel_id": "160000000000000000",
+        "guild_id": "140000000000000000",
+        "channel_id": "150000000000000000",
         "member": {
             "user": {
-                "id": "170000000000000000",
+                "id": "160000000000000000",
                 "username": "Victorsitou",
                 "discriminator": "7165",
-                "avatar": "b8727f694ddcba11deb4bfbf6b59be20",
-                "public_flags": 64
+                "avatar": "ad454a821e0ecfb3d8357dad0053a36b",
+                "public_flags": 4194368
             },
-            "nick": null,
+            "nick": "Victor",
             "avatar": null,
             "roles": [
-                "180000000000000000",
-                "190000000000000000"
+                "170000000000000000"
             ],
-            "joined_at": "2021-05-20T02: 46: 51.470000+00: 00",
+            "joined_at": "2022-01-16T01:06:06.869000+00:00",
             "premium_since": null,
             "deaf": false,
             "mute": false,
             "pending": false,
-            "is_pending": false,
-            "permissions": "2199023255551",
+            "permissions": "4398046511103",
             "communication_disabled_until": null
         },
         "token": "unique_token",
         "version": 1,
-        "app_permissions": "2199023255543",
-        "locale": "en-US",
-        "guild_locale": "es-ES"
+        "app_permissions": "4398046511103",
+        "locale": "en-GB",
+        "guild_locale": "en-US"
     }
 }

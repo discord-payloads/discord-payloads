@@ -16,20 +16,20 @@
                         "id": "400000000000000000",
                         "username": "Victorsitou",
                         "discriminator": "7165",
-                        "avatar": "b8727f694ddcba11deb4bfbf6b59be20",
-                        "public_flags": 64
+                        "avatar": "ad454a821e0ecfb3d8357dad0053a36b",
+                        "public_flags": 4194368
                     }
                 },
                 "attachments": {
                     "500000000000000000": {
                         "id": "500000000000000000",
-                        "filename": "mood.jpg",
+                        "filename": "20221106_160506.jpg",
                         "content_type": "image/jpeg",
-                        "size": 45337,
-                        "url": "https://cdn.discordapp.com/ephemeral-attachments/300000000000000000/500000000000000000/mood.jpg",
-                        "proxy_url": "https://media.discordapp.net/ephemeral-attachments/300000000000000000/500000000000000000/mood.jpg",
-                        "height": 564,
-                        "width": 564,
+                        "size": 1669562,
+                        "url": "https://cdn.discordapp.com/ephemeral-attachments/300000000000000000/500000000000000000/20221106_160506.jpg",
+                        "proxy_url": "https://media.discordapp.net/ephemeral-attachments/300000000000000000/500000000000000000/20221106_160506.jpg",
+                        "height": 1836,
+                        "width": 3264,
                         "ephemeral": true
                     }
                 }
@@ -46,7 +46,7 @@
                                 {
                                     "name": "string",
                                     "type": 3,
-                                    "value": "Hi"
+                                    "value": "cat"
                                 },
                                 {
                                     "name": "integer",
@@ -64,14 +64,9 @@
                                     "value": "400000000000000000"
                                 },
                                 {
-                                    "name": "mentionable",
-                                    "type": 9,
-                                    "value": "400000000000000000"
-                                },
-                                {
                                     "name": "float",
                                     "type": 10,
-                                    "value": 123.456
+                                    "value": 1.2
                                 },
                                 {
                                     "name": "attachment",
@@ -89,11 +84,11 @@
             "id": "700000000000000000",
             "username": "Victorsitou",
             "discriminator": "7165",
-            "avatar": "b8727f694ddcba11deb4bfbf6b59be20",
-            "public_flags": 64
+            "avatar": "ad454a821e0ecfb3d8357dad0053a36b",
+            "public_flags": 4194368
         },
         "token": "unique_token",
         "version": 1,
-        "locale": "en-US"
+        "locale": "en-GB"
     }
 }
