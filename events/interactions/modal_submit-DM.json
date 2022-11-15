@@ -36,24 +36,24 @@
             "id": "400000000000000000",
             "username": "Victorsitou",
             "discriminator": "7165",
-            "avatar": "a_84302c11d747e16cac1c646bb8efcf32",
-            "public_flags": 64
+            "avatar": "ad454a821e0ecfb3d8357dad0053a36b",
+            "public_flags": 4194368
         },
         "token": "unique_token",
         "version": 1,
         "message": {
-            "id": "50000000000000000",
+            "id": "500000000000000000",
             "channel_id": "300000000000000000",
             "author": {
-                "id": "600000000000000000",
-                "username": "uyy ese hombre, es maloo",
+                "id": "200000000000000000",
+                "username": "uyy ese hombre, es malooo",
                 "discriminator": "1392",
                 "avatar": "d3f69ed9c823f5d3493cae1eb51951b0",
                 "bot": true,
                 "public_flags": 0
             },
-            "content": "This field is only present if the modal was sent through a component interaction.",
-            "timestamp": "2022-02-18T15:12:11.576000+00:00",
+            "content": ".",
+            "timestamp": "2022-11-15T19:26:38.593000+00:00",
             "edited_timestamp": null,
             "tts": false,
             "mention_everyone": false,
@@ -67,15 +67,15 @@
             "application_id": "200000000000000000",
             "flags": 0,
             "interaction": {
-                "id": "700000000000000000",
+                "id": "600000000000000000",
                 "type": 2,
-                "name": "components",
+                "name": "modal_two",
                 "user": {
-                    "id": "800000000000000000",
+                    "id": "400000000000000000",
                     "username": "Victorsitou",
                     "discriminator": "7165",
-                    "avatar": "4e94565677eff3404b6265560ced6e60",
-                    "public_flags": 64
+                    "avatar": "ad454a821e0ecfb3d8357dad0053a36b",
+                    "public_flags": 4194368
                 }
             },
             "components": [
@@ -123,6 +123,6 @@
                 }
             ]
         },
-        "locale": "en-US"
+        "locale": "en-GB"
     }
 }
