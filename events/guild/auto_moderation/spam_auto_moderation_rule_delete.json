@@ -1,5 +1,5 @@
 {
-    "t": "AUTO_MODERATION_RULE_UPDATE",
+    "t": "AUTO_MODERATION_RULE_DELETE",
     "s": 1,
     "op": 0,
     "d": {
@@ -22,7 +22,7 @@
                 }
             }
         ],
-        "enabled": false,
+        "enabled": true,
         "exempt_roles": [
             "500000000000000000",
             "600000000000000000"
