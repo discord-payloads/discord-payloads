@@ -1,0 +1,44 @@
+{
+    "t": "INVITE_CREATE",
+    "s": 1,
+    "op": 0,
+    "d": {
+        "channel_id": "100000000000000000",
+        "code": "2NVg2JAmsx",
+        "created_at": "2022-11-15T15:39:55.976202+00:00",
+        "guild_id": "200000000000000000",
+        "inviter": {
+            "id": "300000000000000000",
+            "username": "Activities",
+            "discriminator": "3305",
+            "avatar": "5d0f97d51b01a19fd7ba915204222efc",
+            "bot": true,
+            "public_flags": 589824
+        },
+        "max_age": 0,
+        "max_uses": 0,
+        "target_type": 2,
+        "target_application": {
+            "id": "400000000000000000",
+            "name": "Land-io",
+            "icon": "c4d8b95b8f06b1ff8cf2b769e94505a8",
+            "description": "Pick a character and encircle new territory. Run into trails to knock out foes - careful not to hit your own!",
+            "bot_public": false,
+            "bot_require_code_grant": false,
+            "terms_of_service_url": "https://discord.com/terms",
+            "privacy_policy_url": "https://discord.com/privacy",
+            "verify_key": "82c2ef51c10e534207dee215fd1cbffc13708f8245a2d5e1e3e233099b30403e",
+            "cover_image": "c4d8b95b8f06b1ff8cf2b769e94505a8",
+            "flags": 1179648,
+            "tags": [
+                "Arcade",
+                "Cross-Server",
+                "IO"
+            ]
+        },
+        "temporary": false,
+        "uses": 0,
+        "type": 0,
+        "expires_at": null
+    }
+}
