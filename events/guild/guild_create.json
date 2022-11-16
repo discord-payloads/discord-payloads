@@ -7,7 +7,7 @@
         "name": "Discord Payloads",
         "icon": null,
         "splash": null,
-        "discovery_splash": "032336798221e24653983102c3ad3bcd",
+        "discovery_splash": null,
         "owner_id": "200000000000000000",
         "region": "deprecated",
         "afk_channel_id": null,
@@ -27,24 +27,20 @@
                 "permissions": "1071698529857",
                 "managed": false,
                 "mentionable": false,
-                "tags": {},
-                "version": 0,
-                "flags": 0
+                "tags": {}
             },
             {
                 "id": "300000000000000000",
                 "name": "Moderator",
                 "color": 3066993,
-                "hoist": false,
+                "hoist": true,
                 "icon": null,
                 "unicode_emoji": null,
-                "position": 10,
+                "position": 7,
                 "permissions": "2199023251159",
                 "managed": false,
                 "mentionable": false,
-                "tags": {},
-                "version": 0,
-                "flags": 0
+                "tags": {}
             },
             {
                 "id": "400000000000000000",
@@ -53,13 +49,11 @@
                 "hoist": true,
                 "icon": null,
                 "unicode_emoji": null,
-                "position": 11,
-                "permissions": "2190164881223",
+                "position": 8,
+                "permissions": "1071698529865",
                 "managed": false,
                 "mentionable": false,
-                "tags": {},
-                "version": 0,
-                "flags": 0
+                "tags": {}
             },
             {
                 "id": "500000000000000000",
@@ -74,9 +68,7 @@
                 "mentionable": false,
                 "tags": {
                     "bot_id": "600000000000000000"
-                },
-                "version": 0,
-                "flags": 0
+                }
             }
         ],
         "emojis": [
@@ -87,8 +79,7 @@
                 "require_colons": true,
                 "managed": false,
                 "animated": false,
-                "available": true,
-                "version": 0
+                "available": true
             }
         ],
         "features": [
@@ -165,8 +156,7 @@
                     }
                 ],
                 "name": "Text Channels",
-                "flags": 0,
-                "version": 0
+                "flags": 0
             },
             {
                 "id": "800000000000000000",
@@ -197,8 +187,7 @@
                 "last_message_id": "170000000000000000",
                 "rate_limit_per_user": 0,
                 "parent_id": "140000000000000000",
-                "flags": 0,
-                "version": 0
+                "flags": 0
             },
             {
                 "id": "180000000000000000",
@@ -229,8 +218,7 @@
                 "last_message_id": "190000000000000000",
                 "rate_limit_per_user": 0,
                 "parent_id": "210000000000000000",
-                "flags": 0,
-                "version": 0
+                "flags": 0
             },
             {
                 "id": "220000000000000000",
@@ -257,8 +245,7 @@
                 "rate_limit_per_user": 0,
                 "parent_id": "230000000000000000",
                 "rtc_region": "us-central",
-                "flags": 0,
-                "version": 0
+                "flags": 0
             },
             {
                 "id": "240000000000000000",
@@ -292,8 +279,7 @@
                 "rate_limit_per_user": 0,
                 "parent_id": "230000000000000000",
                 "rtc_region": null,
-                "flags": 0,
-                "version": 0
+                "flags": 0
             },
             {
                 "id": "250000000000000000",
@@ -325,13 +311,65 @@
                 "rate_limit_per_user": 10,
                 "parent_id": "270000000000000000",
                 "default_auto_archive_duration": 60,
-                "flags": 0,
-                "version": 0
+                "flags": 0
             }
         ],
-        "threads": [],
+        "threads": [
+            {
+                "id": "280000000000000000",
+                "type": 11,
+                "guild_id": "100000000000000000",
+                "name": "aBC",
+                "last_message_id": "290000000000000000",
+                "rate_limit_per_user": 0,
+                "owner_id": "300000000000000000",
+                "parent_id": "310000000000000000",
+                "message_count": 50,
+                "member_count": 4,
+                "thread_metadata": {
+                    "archived": false,
+                    "auto_archive_duration": 4320,
+                    "archive_timestamp": "2022-02-24T02:16:37.920000+00:00",
+                    "locked": false,
+                    "create_timestamp": "2022-02-24T02:16:37.920000+00:00"
+                },
+                "member": {
+                    "muted": false,
+                    "mute_config": null,
+                    "join_timestamp": "2022-02-28T18:56:10.780343+00:00",
+                    "flags": 0
+                }
+            }
+        ],
         "presences": [],
-        "stage_instances": [],
-        "guild_scheduled_events": []
+        "stage_instances": [
+            {
+                "id": "320000000000000000",
+                "guild_id": "100000000000000000",
+                "channel_id": "330000000000000000",
+                "topic": "hey",
+                "privacy_level": 2,
+                "discoverable_disabled": false,
+                "guild_scheduled_event_id": "340000000000000000"
+            }
+        ],
+        "guild_scheduled_events": [
+            {
+                "id": "350000000000000000",
+                "guild_id": "100000000000000000",
+                "channel_id": "360000000000000000",
+                "creator_id": "370000000000000000",
+                "name": "hey",
+                "description": null,
+                "scheduled_start_time": "2022-03-03T18:45:00.879000+00:00",
+                "scheduled_end_time": null,
+                "privacy_level": 2,
+                "status": 2,
+                "entity_type": 1,
+                "entity_id": "380000000000000000",
+                "entity_metadata": {},
+                "image": null
+            }
+        ]
     }
 }
