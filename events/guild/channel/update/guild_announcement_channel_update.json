@@ -15,12 +15,12 @@
                 "deny": "2048"
             }
         ],
-        "name": "announcement-channel",
-        "topic": "Announcements!",
+        "name": "announcements",
+        "topic": null,
         "nsfw": false,
-        "last_message_id": "400000000000000000",
+        "last_message_id": null,
         "rate_limit_per_user": 0,
-        "parent_id": "500000000000000000",
+        "parent_id": "400000000000000000",
         "default_auto_archive_duration": 10080,
         "flags": 0,
         "default_thread_rate_limit_per_user": 0

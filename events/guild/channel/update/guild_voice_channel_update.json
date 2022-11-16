@@ -6,7 +6,7 @@
         "id": "100000000000000000",
         "type": 2,
         "guild_id": "200000000000000000",
-        "position": 5,
+        "position": 0,
         "permission_overwrites": [
             {
                 "id": "300000000000000000",
@@ -15,15 +15,14 @@
                 "deny": "0"
             }
         ],
-        "name": "voice_channel",
+        "name": "voice-channel",
         "nsfw": false,
         "last_message_id": null,
-        "bitrate": 81000,
-        "user_limit": 15,
+        "bitrate": 64000,
+        "user_limit": 0,
         "rate_limit_per_user": 0,
         "parent_id": "400000000000000000",
-        "rtc_region": "brazil",
-        "video_quality_mode": 2,
+        "rtc_region": null,
         "flags": 0
     }
 }

@@ -7,25 +7,33 @@
         "type": 15,
         "guild_id": "200000000000000000",
         "position": 0,
-        "permission_overwrites": [],
+        "permission_overwrites": [
+            {
+                "id": "300000000000000000",
+                "type": 0,
+                "allow": "1024",
+                "deny": "0"
+            }
+        ],
         "name": "forum-channel",
-        "topic": "Que se paren los Cruzados",
+        "topic": null,
         "nsfw": false,
-        "last_message_id": "300000000000000000",
-        "rate_limit_per_user": 0,
-        "parent_id": "400000000000000000",
+        "last_message_id": "400000000000000000",
+        "rate_limit_per_user": 60,
+        "parent_id": "500000000000000000",
+        "default_auto_archive_duration": 1440,
         "flags": 0,
         "available_tags": [
             {
-                "id": "500000000000000000",
+                "id": "600000000000000000",
                 "name": "Catolica",
                 "moderated": false,
-                "emoji_id": "600000000000000000",
+                "emoji_id": "700000000000000000",
                 "emoji_name": null
             }
         ],
         "default_reaction_emoji": {
-            "emoji_id": "700000000000000000",
+            "emoji_id": "800000000000000000",
             "emoji_name": null
         },
         "default_thread_rate_limit_per_user": 0,
