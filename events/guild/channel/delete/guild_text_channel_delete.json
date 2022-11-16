@@ -20,7 +20,7 @@
         "nsfw": false,
         "last_message_id": null,
         "rate_limit_per_user": 5,
-        "parent_id": "500000000000000000",
+        "parent_id": "400000000000000000",
         "default_auto_archive_duration": 4320,
         "flags": 0,
         "default_thread_rate_limit_per_user": 0
