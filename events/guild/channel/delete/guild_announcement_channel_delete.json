@@ -16,7 +16,7 @@
             }
         ],
         "name": "announcements",
-        "topic": "",
+        "topic": null,
         "nsfw": false,
         "last_message_id": null,
         "rate_limit_per_user": 0,

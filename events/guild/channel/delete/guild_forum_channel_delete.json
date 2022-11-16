@@ -7,9 +7,16 @@
         "type": 15,
         "guild_id": "200000000000000000",
         "position": 0,
-        "permission_overwrites": [],
+        "permission_overwrites": [
+            {
+                "id": "300000000000000000",
+                "type": 0,
+                "allow": "1024",
+                "deny": "0"
+            }
+        ],
         "name": "forum-channel",
-        "topic": "Que se paren los Cruzados",
+        "topic": null,
         "nsfw": false,
         "last_message_id": "300000000000000000",
         "rate_limit_per_user": 0,
