@@ -19,7 +19,7 @@
         "topic": null,
         "nsfw": false,
         "last_message_id": null,
-        "rate_limit_per_user": 5,
+        "rate_limit_per_user": 0,
         "parent_id": "400000000000000000",
         "default_auto_archive_duration": 4320,
         "flags": 0,
