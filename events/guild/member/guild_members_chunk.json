@@ -17,8 +17,7 @@
                 "nick": "Victor",
                 "avatar": null,
                 "roles": [
-                    "300000000000000000",
-                    "400000000000000000"
+                    "300000000000000000"
                 ],
                 "joined_at": "2022-01-16T01:06:06.869000+00:00",
                 "premium_since": null,
@@ -29,7 +28,7 @@
             },
             {
                 "user": {
-                    "id": "500000000000000000",
+                    "id": "400000000000000000",
                     "username": "shiftinv",
                     "discriminator": "9556",
                     "avatar": "aaad36bead9ac126ea4c36d82286240f",
@@ -39,7 +38,7 @@
                 "nick": null,
                 "avatar": null,
                 "roles": [
-                    "600000000000000000"
+                    "500000000000000000"
                 ],
                 "joined_at": "2022-01-17T14:33:52.931000+00:00",
                 "premium_since": null,
@@ -50,28 +49,7 @@
             },
             {
                 "user": {
-                    "id": "700000000000000000",
-                    "username": "Nassau",
-                    "discriminator": "2748",
-                    "avatar": "4ad1e242fd53b4898fa629cc26b857b4",
-                    "bot": false,
-                    "public_flags": 0
-                },
-                "nick": null,
-                "avatar": null,
-                "roles": [
-                    "800000000000000000"
-                ],
-                "joined_at": "2022-05-04T00:34:57.390000+00:00",
-                "premium_since": null,
-                "deaf": false,
-                "mute": false,
-                "pending": false,
-                "communication_disabled_until": "2022-06-30T20:56:03.485000+00:00"
-            },
-            {
-                "user": {
-                    "id": "900000000000000000",
+                    "id": "600000000000000000",
                     "username": "uyy ese hombre, es maloo",
                     "discriminator": "1392",
                     "avatar": "d3f69ed9c823f5d3493cae1eb51951b0",
@@ -81,7 +59,7 @@
                 "nick": null,
                 "avatar": null,
                 "roles": [
-                    "110000000000000000"
+                    "700000000000000000"
                 ],
                 "joined_at": "2022-01-17T15:32:05.833000+00:00",
                 "premium_since": null,
@@ -93,6 +71,6 @@
         ],
         "chunk_index": 0,
         "chunk_count": 1,
-        "nonce": "888236175d660902f160459508f06d3e"
+        "nonce": "ca8f05abc8db5d9262440a8f2ebe98d4"
     }
 }
