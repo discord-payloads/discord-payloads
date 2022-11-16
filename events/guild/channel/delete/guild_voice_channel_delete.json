@@ -11,19 +11,18 @@
             {
                 "id": "300000000000000000",
                 "type": 0,
-                "allow": "1049600",
-                "deny": "0"
+                "allow": "0",
+                "deny": "1049600"
             }
         ],
         "name": "voice_channel",
         "nsfw": false,
         "last_message_id": null,
-        "bitrate": 81000,
-        "user_limit": 15,
+        "bitrate": 6400,
+        "user_limit": 0,
         "rate_limit_per_user": 0,
         "parent_id": "400000000000000000",
-        "rtc_region": "brazil",
-        "video_quality_mode": 2,
+        "rtc_region": null,
         "flags": 0
     }
 }
