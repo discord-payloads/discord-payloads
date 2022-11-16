@@ -7,7 +7,7 @@
         "name": "Discord Payloads",
         "icon": null,
         "splash": null,
-        "discovery_splash": "032336798221e24653983102c3ad3bcd",
+        "discovery_splash": null,
         "owner_id": "200000000000000000",
         "region": "deprecated",
         "afk_channel_id": null,
@@ -28,10 +28,7 @@
                 "position": 0,
                 "permissions": "1071698529857",
                 "managed": false,
-                "mentionable": false,
-                "version": 0,
-                "flags": 0,
-                "description": null
+                "mentionable": false
             },
             {
                 "id": "300000000000000000",
@@ -43,10 +40,7 @@
                 "position": 10,
                 "permissions": "2199023251159",
                 "managed": false,
-                "mentionable": false,
-                "version": 0,
-                "flags": 0,
-                "description": null
+                "mentionable": false
             },
             {
                 "id": "400000000000000000",
@@ -58,10 +52,7 @@
                 "position": 11,
                 "permissions": "2190164881223",
                 "managed": false,
-                "mentionable": false,
-                "version": 0,
-                "flags": 1,
-                "description": null
+                "mentionable": false
             },
             {
                 "id": "500000000000000000",
@@ -76,10 +67,7 @@
                 "mentionable": false,
                 "tags": {
                     "bot_id": "600000000000000000"
-                },
-                "version": 0,
-                "flags": 0,
-                "description": null
+                }
             }
         ],
         "emojis": [
@@ -90,8 +78,7 @@
                 "require_colons": true,
                 "managed": false,
                 "animated": false,
-                "available": true,
-                "version": 0
+                "available": true
             }
         ],
         "features": [
