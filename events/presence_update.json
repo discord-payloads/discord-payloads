@@ -7,39 +7,35 @@
             "id": "100000000000000000"
         },
         "guild_id": "200000000000000000",
-        "status": "online",
+        "status": "dnd",
         "activities": [
             {
-                "name": "Custom Status",
                 "type": 4,
-                "created_at": 1668530808005,
-                "state": "Aguante la cato",
-                "emoji": {
-                    "name": "\ud83c\uddeb\ud83c\uddee"
-                }
+                "created_at": 1646139697957,
+                "state": "Por que queremos aparentar tanta maldad?"
             },
             {
                 "name": "Spotify",
                 "type": 2,
-                "created_at": 1668530779218,
+                "created_at": 1646171594657,
                 "timestamps": {
-                    "start": 1668530779422,
-                    "end": 1668530921733
+                    "start": 1646171594065,
+                    "end": 1646171866691
                 },
-                "details": "Voy a alentarte hasta la muerte",
-                "state": "CruzadoCaballero",
+                "details": "Venezia",
+                "state": "Hombres G",
                 "party": {
                     "id": "spotify:100000000000000000"
                 },
                 "assets": {
-                    "large_text": "Cantos Barra Los Cruzados, Vol. 3",
-                    "large_image": "spotify:ab67616d0000b273a0981ec08c537c7314f83492"
+                    "large_text": "Lo Mejor De Los Hombres G",
+                    "large_image": "spotify:ab67616d0000b273b1c351478a62d23cb2a4446e"
                 },
                 "flags": 48
             }
         ],
         "client_status": {
-            "web": "online"
+            "web": "dnd"
         }
     }
 }
