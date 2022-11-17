@@ -17,7 +17,7 @@
                 "last_message_id": "500000000000000000",
                 "rate_limit_per_user": 0,
                 "owner_id": "600000000000000000",
-                "parent_id": "300000000000000000",
+                "parent_id": "200000000000000000",
                 "message_count": 50,
                 "member_count": 4,
                 "thread_metadata": {
@@ -38,7 +38,7 @@
                 "last_message_id": "800000000000000000",
                 "rate_limit_per_user": 0,
                 "owner_id": "900000000000000000",
-                "parent_id": "200000000000000000",
+                "parent_id": "300000000000000000",
                 "message_count": 0,
                 "member_count": 2,
                 "thread_metadata": {
