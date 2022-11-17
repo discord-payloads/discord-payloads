@@ -5,30 +5,13 @@
     "d": {
         "id": "100000000000000000",
         "guild_id": "200000000000000000",
-        "member_count": 2,
+        "member_count": 3,
         "added_members": [
             {
                 "id": "100000000000000000",
                 "user_id": "300000000000000000",
-                "join_timestamp": "2022-11-15T12:14:34.419188+00:00",
+                "join_timestamp": "2022-02-04T21:28:53.634145+00:00",
                 "flags": 0,
-                "presence": {
-                    "user": {
-                        "id": "300000000000000000",
-                        "username": "uyy ese hombre, es maloo",
-                        "discriminator": "1392",
-                        "avatar": "d3f69ed9c823f5d3493cae1eb51951b0",
-                        "bot": true
-                    },
-                    "status": "online",
-                    "game": null,
-                    "client_status": {
-                        "web": "online"
-                    },
-                    "activities": []
-                },
-                "muted": false,
-                "mute_config": null,
                 "member": {
                     "user": {
                         "id": "300000000000000000",
@@ -51,6 +34,21 @@
                     "pending": false,
                     "communication_disabled_until": "2021-12-21T03:02:37.899000+00:00",
                     "flags": 0
+                },
+                "presence": {
+                    "user": {
+                        "id": "300000000000000000",
+                        "username": "uyy ese hombre, es maloo",
+                        "discriminator": "1392",
+                        "avatar": "d3f69ed9c823f5d3493cae1eb51951b0",
+                        "bot": true
+                    },
+                    "status": "online",
+                    "game": null,
+                    "client_status": {
+                        "web": "online"
+                    },
+                    "activities": []
                 }
             }
         ]

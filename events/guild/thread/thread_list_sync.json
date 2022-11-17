@@ -5,47 +5,48 @@
     "d": {
         "guild_id": "100000000000000000",
         "channel_ids": [
-            "200000000000000000"
+            "200000000000000000",
+            "300000000000000000"
         ],
         "threads": [
             {
-                "id": "300000000000000000",
+                "id": "400000000000000000",
                 "type": 11,
                 "guild_id": "100000000000000000",
-                "name": "Aguante la cato thread",
-                "last_message_id": "400000000000000000",
-                "rate_limit_per_user": 15,
-                "owner_id": "500000000000000000",
-                "parent_id": "200000000000000000",
-                "message_count": 2,
-                "member_count": 1,
-                "thread_metadata": {
-                    "archived": false,
-                    "auto_archive_duration": 1440,
-                    "archive_timestamp": "2022-11-14T21:56:37.062000+00:00",
-                    "locked": false,
-                    "create_timestamp": "2022-11-14T21:56:37.062000+00:00"
-                },
-                "flags": 0,
-                "total_message_sent": 2
-            },
-            {
-                "id": "600000000000000000",
-                "type": 11,
-                "guild_id": "100000000000000000",
-                "name": "Thread",
-                "last_message_id": "700000000000000000",
+                "name": "aBC",
+                "last_message_id": "500000000000000000",
                 "rate_limit_per_user": 0,
-                "owner_id": "800000000000000000",
+                "owner_id": "600000000000000000",
                 "parent_id": "200000000000000000",
-                "message_count": 2,
-                "member_count": 2,
+                "message_count": 50,
+                "member_count": 4,
                 "thread_metadata": {
                     "archived": false,
                     "auto_archive_duration": 4320,
-                    "archive_timestamp": "2022-11-15T12:26:30.635000+00:00",
+                    "archive_timestamp": "2022-02-24T02:16:37.920000+00:00",
                     "locked": false,
-                    "create_timestamp": "2022-11-15T12:26:30.635000+00:00"
+                    "create_timestamp": "2022-02-24T02:16:37.920000+00:00"
+                },
+                "flags": 0,
+                "total_message_sent": 50
+            },
+            {
+                "id": "700000000000000000",
+                "type": 11,
+                "guild_id": "100000000000000000",
+                "name": "aaaaaaa",
+                "last_message_id": "800000000000000000",
+                "rate_limit_per_user": 0,
+                "owner_id": "900000000000000000",
+                "parent_id": "200000000000000000",
+                "message_count": 0,
+                "member_count": 2,
+                "thread_metadata": {
+                    "archived": false,
+                    "auto_archive_duration": 1440,
+                    "archive_timestamp": "2022-03-01T19:42:18.276497+00:00",
+                    "locked": false,
+                    "create_timestamp": "2022-03-01T19:42:18.276497+00:00"
                 },
                 "flags": 0,
                 "total_message_sent": 2
@@ -54,8 +55,8 @@
         "members": [
             {
                 "id": "600000000000000000",
-                "user_id": "900000000000000000",
-                "join_timestamp": "2022-11-15T12:26:39.609332+00:00",
+                "user_id": "110000000000000000",
+                "join_timestamp": "2022-02-28T18:56:10.780343+00:00",
                 "flags": 0
             }
         ]

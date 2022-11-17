@@ -6,27 +6,27 @@
         "id": "100000000000000000",
         "type": 11,
         "guild_id": "200000000000000000",
-        "name": "Thread",
+        "name": "test",
         "last_message_id": "300000000000000000",
         "rate_limit_per_user": 0,
         "owner_id": "400000000000000000",
         "parent_id": "500000000000000000",
-        "message_count": 1,
-        "member_count": 2,
+        "message_count": 6,
+        "member_count": 3,
         "thread_metadata": {
             "archived": false,
-            "auto_archive_duration": 4320,
-            "archive_timestamp": "2022-11-15T12:13:10.336000+00:00",
+            "auto_archive_duration": 1440,
+            "archive_timestamp": "2022-02-04T21:40:36.445419+00:00",
             "locked": false,
-            "create_timestamp": "2022-11-15T12:13:10.336000+00:00"
+            "create_timestamp": "2022-02-04T21:40:36.445419+00:00"
         },
         "member": {
-            "id": "600000000000000000",
-            "user_id": "700000000000000000",
-            "join_timestamp": "2022-11-15T12:14:34.419188+00:00",
+            "id": "100000000000000000",
+            "user_id": "600000000000000000",
+            "join_timestamp": "2022-02-04T22:12:48.307046+00:00",
             "flags": 0
         },
         "flags": 0,
-        "total_message_sent": 1
+        "total_message_sent": 6
     }
 }
