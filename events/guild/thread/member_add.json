@@ -23,10 +23,7 @@
                     },
                     "nick": null,
                     "avatar": null,
-                    "roles": [
-                        "400000000000000000",
-                        "500000000000000000"
-                    ],
+                    "roles": [],
                     "joined_at": "2021-11-05T15:49:31.829000+00:00",
                     "premium_since": null,
                     "deaf": false,
