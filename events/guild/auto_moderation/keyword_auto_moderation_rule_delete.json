@@ -16,6 +16,9 @@
             "keyword_filter": [
                 "cat",
                 "dog"
+            ],
+            "allow_list": [
+                "cot"
             ]
         },
         "actions": [
