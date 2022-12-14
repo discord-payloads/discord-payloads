@@ -7,20 +7,19 @@
         "application_id": "200000000000000000",
         "type": 3,
         "data": {
-            "custom_id": "select",
-            "component_type": 3,
             "values": [
-                "2",
-                "3"
-            ]
+                "2"
+            ],
+            "custom_id": "select",
+            "component_type": 3
         },
         "channel_id": "300000000000000000",
         "user": {
             "id": "400000000000000000",
             "username": "Victorsitou",
             "discriminator": "7165",
-            "avatar": "b8727f694ddcba11deb4bfbf6b59be20",
-            "public_flags": 64
+            "avatar": "ad454a821e0ecfb3d8357dad0053a36b",
+            "public_flags": 4194368
         },
         "token": "unique_token",
         "version": 1,
@@ -29,14 +28,14 @@
             "channel_id": "300000000000000000",
             "author": {
                 "id": "200000000000000000",
-                "username": "uyy ese hombre",
+                "username": "uyy ese hombre, es malooo",
                 "discriminator": "1392",
                 "avatar": "d3f69ed9c823f5d3493cae1eb51951b0",
                 "bot": true,
                 "public_flags": 0
             },
-            "content": "Here is it.",
-            "timestamp": "2022-01-25T21:16:50.216000+00:00",
+            "content": "Hi",
+            "timestamp": "2022-11-15T18:59:27.571000+00:00",
             "edited_timestamp": null,
             "tts": false,
             "mention_everyone": false,
@@ -54,11 +53,11 @@
                 "type": 2,
                 "name": "send_component",
                 "user": {
-                    "id": "700000000000000000",
+                    "id": "400000000000000000",
                     "username": "Victorsitou",
                     "discriminator": "7165",
-                    "avatar": "b8727f694ddcba11deb4bfbf6b59be20",
-                    "public_flags": 64
+                    "avatar": "ad454a821e0ecfb3d8357dad0053a36b",
+                    "public_flags": 4194368
                 }
             },
             "components": [
@@ -69,11 +68,10 @@
                             "type": 2,
                             "style": 1,
                             "label": "Click me!",
-                            "hash": "",
                             "emoji": {
-                                "name": "\ud83d\ude01"
+                                "name": "\ud83d\ude04"
                             },
-                            "custom_id": "click_me"
+                            "custom_id": "button"
                         }
                     ]
                 },
@@ -88,7 +86,7 @@
                                     "label": "Option 1",
                                     "value": "1",
                                     "emoji": {
-                                        "name": "\ud83d\udc4b"
+                                        "name": "\u270c\ufe0f"
                                     }
                                 },
                                 {
@@ -108,13 +106,12 @@
                             ],
                             "placeholder": "Select an option",
                             "min_values": 1,
-                            "max_values": 3,
-                            "hash": ""
+                            "max_values": 1
                         }
                     ]
                 }
             ]
         },
-        "locale": "en-US"
+        "locale": "en-GB"
     }
 }

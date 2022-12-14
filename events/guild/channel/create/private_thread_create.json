@@ -21,7 +21,8 @@
             "invitable": true,
             "create_timestamp": "2022-02-14T19:06:29.207000+00:00"
         },
-        "newly_created": true,
-        "flags": 0
+        "flags": 0,
+        "total_message_sent": 0,
+        "newly_created": true
     }
 }

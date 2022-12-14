@@ -6,7 +6,7 @@
         "id": "100000000000000000",
         "type": 12,
         "guild_id": "200000000000000000",
-        "name": "private-thread",
+        "name": "private-threads",
         "last_message_id": "300000000000000000",
         "rate_limit_per_user": 0,
         "owner_id": "400000000000000000",
@@ -21,6 +21,7 @@
             "invitable": true,
             "create_timestamp": "2022-02-14T20:39:13.302000+00:00"
         },
-        "flags": 0
+        "flags": 0,
+        "total_message_sent": 2
     }
 }

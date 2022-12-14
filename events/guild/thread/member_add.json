@@ -15,36 +15,37 @@
                 "member": {
                     "user": {
                         "id": "300000000000000000",
-                        "username": "uyy ese hombre",
+                        "username": "uyy ese hombre, es maloo",
                         "discriminator": "1392",
                         "avatar": "d3f69ed9c823f5d3493cae1eb51951b0",
-                        "bot": true
+                        "bot": true,
+                        "public_flags": 0
                     },
                     "nick": null,
                     "avatar": null,
                     "roles": [],
                     "joined_at": "2021-11-05T15:49:31.829000+00:00",
                     "premium_since": null,
-                    "pending": false,
                     "deaf": false,
                     "mute": false,
-                    "hoisted_role": null,
-                    "communication_disabled_until": "2021-12-21T03:02:37.899000+00:00"
+                    "pending": false,
+                    "communication_disabled_until": "2021-12-21T03:02:37.899000+00:00",
+                    "flags": 0
                 },
                 "presence": {
                     "user": {
                         "id": "300000000000000000",
-                        "username": "uyy ese hombre",
+                        "username": "uyy ese hombre, es maloo",
                         "discriminator": "1392",
                         "avatar": "d3f69ed9c823f5d3493cae1eb51951b0",
                         "bot": true
                     },
                     "status": "online",
                     "game": null,
-                    "activities": [],
                     "client_status": {
                         "web": "online"
-                    }
+                    },
+                    "activities": []
                 }
             }
         ]

@@ -1,24 +1,28 @@
 {
-    "t": "CHANNEL_UPDATE",
+    "t": "CHANNEL_DELETE",
     "s": 1,
     "op": 0,
     "d": {
         "id": "100000000000000000",
-        "type": 5,
+        "type": 0,
         "guild_id": "200000000000000000",
-        "position": 2,
+        "position": 10,
         "permission_overwrites": [
             {
                 "id": "300000000000000000",
                 "type": 0,
                 "allow": "0",
-                "deny": "2048"
+                "deny": "1049600"
             }
         ],
-        "name": "announcements",
+        "name": "general",
         "topic": null,
         "nsfw": false,
         "last_message_id": null,
-        "parent_id": "400000000000000000"
+        "rate_limit_per_user": 0,
+        "parent_id": "400000000000000000",
+        "default_auto_archive_duration": 4320,
+        "flags": 0,
+        "default_thread_rate_limit_per_user": 0
     }
 }

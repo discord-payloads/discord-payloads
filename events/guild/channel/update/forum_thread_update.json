@@ -7,10 +7,10 @@
         "type": 11,
         "guild_id": "200000000000000000",
         "name": "Are otters cute?",
-        "last_message_id": null,
+        "last_message_id": "300000000000000000",
         "rate_limit_per_user": 0,
-        "owner_id": "300000000000000000",
-        "parent_id": "400000000000000000",
+        "owner_id": "400000000000000000",
+        "parent_id": "500000000000000000",
         "message_count": 0,
         "member_count": 1,
         "thread_metadata": {
@@ -20,6 +20,8 @@
             "locked": false,
             "create_timestamp": "2022-03-31T03:09:59.785000+00:00"
         },
-        "flags": 2
+        "flags": 2,
+        "total_message_sent": 0,
+        "applied_tags": []
     }
 }

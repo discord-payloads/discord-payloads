@@ -1,12 +1,12 @@
 {
-    "t": "CHANNEL_CREATE",
+    "t": "CHANNEL_UPDATE",
     "s": 1,
     "op": 0,
     "d": {
         "id": "100000000000000000",
-        "type": 0,
+        "type": 2,
         "guild_id": "200000000000000000",
-        "position": 10,
+        "position": 0,
         "permission_overwrites": [
             {
                 "id": "300000000000000000",
@@ -15,11 +15,14 @@
                 "deny": "0"
             }
         ],
-        "name": "general",
-        "topic": null,
+        "name": "voice-channel",
         "nsfw": false,
         "last_message_id": null,
+        "bitrate": 64000,
+        "user_limit": 0,
         "rate_limit_per_user": 0,
-        "parent_id": "400000000000000000"
+        "parent_id": "400000000000000000",
+        "rtc_region": null,
+        "flags": 0
     }
 }

@@ -19,8 +19,8 @@
                             "id": "600000000000000000",
                             "username": "Victorsitou",
                             "discriminator": "7165",
-                            "avatar": "b8727f694ddcba11deb4bfbf6b59be20",
-                            "public_flags": 64
+                            "avatar": "ad454a821e0ecfb3d8357dad0053a36b",
+                            "public_flags": 4194368
                         },
                         "content": "Hi admins, this is Hombres G. <@&700000000000000000>",
                         "timestamp": "2022-01-25T01:12:22.285000+00:00",
@@ -61,23 +61,22 @@
                 "id": "110000000000000000",
                 "username": "Victorsitou",
                 "discriminator": "7165",
-                "avatar": "b8727f694ddcba11deb4bfbf6b59be20",
-                "public_flags": 64
+                "avatar": "ad454a821e0ecfb3d8357dad0053a36b",
+                "public_flags": 4194368
             },
-            "nick": null,
+            "nick": "Victor",
             "avatar": null,
             "roles": [
                 "120000000000000000",
                 "130000000000000000",
                 "140000000000000000"
             ],
-            "joined_at": "2021-05-20T02: 46: 51.470000+00: 00",
+            "joined_at": "2022-01-16T01:06:06.869000+00:00",
             "premium_since": null,
             "deaf": false,
             "mute": false,
             "pending": false,
-            "is_pending": false,
-            "permissions": "2199023255551",
+            "permissions": "4398046511103",
             "communication_disabled_until": null
         },
         "token": "unique_token",

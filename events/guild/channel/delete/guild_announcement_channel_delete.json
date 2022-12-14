@@ -1,5 +1,5 @@
 {
-    "t": "CHANNEL_CREATE",
+    "t": "CHANNEL_DELETE",
     "s": 1,
     "op": 0,
     "d": {
@@ -19,6 +19,10 @@
         "topic": null,
         "nsfw": false,
         "last_message_id": null,
-        "parent_id": "400000000000000000"
+        "rate_limit_per_user": 0,
+        "parent_id": "400000000000000000",
+        "default_auto_archive_duration": 10080,
+        "flags": 0,
+        "default_thread_rate_limit_per_user": 0
     }
 }

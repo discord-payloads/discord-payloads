@@ -9,7 +9,7 @@
         "position": 4,
         "permission_overwrites": [],
         "name": "category",
-        "nsfw": false,
-        "parent_id": null
+        "parent_id": null,
+        "flags": 0
     }
 }

@@ -5,11 +5,13 @@
     "d": {
         "id": "100000000000000000",
         "guild_id": "200000000000000000",
-        "name": "Harmful Link Filter",
+        "name": "Block Mention Spam",
         "creator_id": "300000000000000000",
         "event_type": 1,
-        "trigger_type": 2,
-        "trigger_metadata": {},
+        "trigger_type": 5,
+        "trigger_metadata": {
+            "mention_total_limit": 20
+        },
         "actions": [
             {
                 "type": 1,
@@ -19,6 +21,12 @@
                 "type": 2,
                 "metadata": {
                     "channel_id": "400000000000000000"
+                }
+            },
+            {
+                "type": 3,
+                "metadata": {
+                    "duration_seconds": 600
                 }
             }
         ],

@@ -1,0 +1,27 @@
+{
+    "t": "APPLICATION_COMMAND_PERMISSIONS_UPDATE",
+    "s": 1,
+    "op": 0,
+    "d": {
+        "id": "100000000000000000",
+        "application_id": "200000000000000000",
+        "guild_id": "300000000000000000",
+        "permissions": [
+            {
+                "id": "400000000000000000",
+                "type": 1,
+                "permission": false
+            },
+            {
+                "id": "500000000000000000",
+                "type": 2,
+                "permission": true
+            },
+            {
+                "id": "600000000000000000",
+                "type": 3,
+                "permission": true
+            }
+        ]
+    }
+}

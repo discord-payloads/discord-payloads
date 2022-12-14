@@ -16,8 +16,8 @@
                         "id": "400000000000000000",
                         "username": "Victorsitou",
                         "discriminator": "7165",
-                        "avatar": "b8727f694ddcba11deb4bfbf6b59be20",
-                        "public_flags": 64
+                        "avatar": "ad454a821e0ecfb3d8357dad0053a36b",
+                        "public_flags": 4194368
                     }
                 }
             },
@@ -28,11 +28,11 @@
             "id": "600000000000000000",
             "username": "Victorsitou",
             "discriminator": "7165",
-            "avatar": "b8727f694ddcba11deb4bfbf6b59be20",
-            "public_flags": 64
+            "avatar": "ad454a821e0ecfb3d8357dad0053a36b",
+            "public_flags": 4194368
         },
         "token": "unique_token",
         "version": 1,
-        "locale": "en-US"
+        "locale": "en-GB"
     }
 }

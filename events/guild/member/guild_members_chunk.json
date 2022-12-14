@@ -10,49 +10,64 @@
                     "id": "200000000000000000",
                     "username": "Victorsitou",
                     "discriminator": "7165",
-                    "avatar": "b8727f694ddcba11deb4bfbf6b59be20",
-                    "public_flags": 64
+                    "avatar": "ad454a821e0ecfb3d8357dad0053a36b",
+                    "bot": false,
+                    "public_flags": 4194368
                 },
+                "nick": "Victor",
+                "avatar": null,
                 "roles": [
                     "300000000000000000"
                 ],
                 "joined_at": "2022-01-16T01:06:06.869000+00:00",
+                "premium_since": null,
                 "deaf": false,
                 "mute": false,
-                "hoisted_role": "300000000000000000"
+                "pending": false,
+                "communication_disabled_until": null
             },
             {
                 "user": {
                     "id": "400000000000000000",
                     "username": "shiftinv",
                     "discriminator": "9556",
-                    "avatar": "6a94c455070635f0c76ce654dd956ab6",
-                    "public_flags": 256
+                    "avatar": "aaad36bead9ac126ea4c36d82286240f",
+                    "bot": false,
+                    "public_flags": 4194560
                 },
+                "nick": null,
+                "avatar": null,
                 "roles": [
                     "500000000000000000"
                 ],
                 "joined_at": "2022-01-17T14:33:52.931000+00:00",
+                "premium_since": null,
                 "deaf": false,
                 "mute": false,
-                "hoisted_role": "500000000000000000"
+                "pending": false,
+                "communication_disabled_until": null
             },
             {
                 "user": {
                     "id": "600000000000000000",
-                    "username": "uyy ese hombre",
+                    "username": "uyy ese hombre, es maloo",
                     "discriminator": "1392",
                     "avatar": "d3f69ed9c823f5d3493cae1eb51951b0",
-                    "bot": true
+                    "bot": true,
+                    "public_flags": 0
                 },
+                "nick": null,
+                "avatar": null,
                 "roles": [
                     "700000000000000000",
                     "800000000000000000"
                 ],
                 "joined_at": "2022-01-17T15:32:05.833000+00:00",
+                "premium_since": null,
                 "deaf": false,
                 "mute": false,
-                "hoisted_role": null
+                "pending": false,
+                "communication_disabled_until": null
             }
         ],
         "chunk_index": 0,

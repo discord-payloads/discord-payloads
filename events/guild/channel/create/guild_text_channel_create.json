@@ -1,5 +1,5 @@
 {
-    "t": "CHANNEL_DELETE",
+    "t": "CHANNEL_CREATE",
     "s": 1,
     "op": 0,
     "d": {
@@ -11,8 +11,8 @@
             {
                 "id": "300000000000000000",
                 "type": 0,
-                "allow": "0",
-                "deny": "1049600"
+                "allow": "1049600",
+                "deny": "0"
             }
         ],
         "name": "general",
@@ -20,6 +20,7 @@
         "nsfw": false,
         "last_message_id": null,
         "rate_limit_per_user": 0,
-        "parent_id": "400000000000000000"
+        "parent_id": "400000000000000000",
+        "flags": 0
     }
 }

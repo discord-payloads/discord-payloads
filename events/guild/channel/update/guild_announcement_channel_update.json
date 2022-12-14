@@ -1,26 +1,28 @@
 {
-    "t": "CHANNEL_CREATE",
+    "t": "CHANNEL_UPDATE",
     "s": 1,
     "op": 0,
     "d": {
         "id": "100000000000000000",
-        "type": 13,
+        "type": 5,
         "guild_id": "200000000000000000",
-        "position": 0,
+        "position": 2,
         "permission_overwrites": [
             {
                 "id": "300000000000000000",
                 "type": 0,
-                "allow": "1049600",
-                "deny": "0"
+                "allow": "0",
+                "deny": "2048"
             }
         ],
-        "name": "events",
+        "name": "announcements",
         "topic": null,
         "nsfw": false,
-        "bitrate": 64000,
-        "user_limit": 10000,
+        "last_message_id": null,
+        "rate_limit_per_user": 0,
         "parent_id": "400000000000000000",
-        "rtc_region": null
+        "default_auto_archive_duration": 10080,
+        "flags": 0,
+        "default_thread_rate_limit_per_user": 0
     }
 }

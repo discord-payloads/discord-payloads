@@ -5,7 +5,7 @@
     "d": {
         "id": "100000000000000000",
         "guild_id": "200000000000000000",
-        "name": "Spam Filter",
+        "name": "Block Spam Content",
         "creator_id": "300000000000000000",
         "event_type": 1,
         "trigger_type": 3,

@@ -20,7 +20,8 @@
             "locked": false,
             "create_timestamp": "2022-02-14T18:46:37.306714+00:00"
         },
-        "newly_created": true,
-        "flags": 0
+        "flags": 0,
+        "total_message_sent": 0,
+        "newly_created": true
     }
 }

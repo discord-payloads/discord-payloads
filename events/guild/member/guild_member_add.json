@@ -19,7 +19,6 @@
         "mute": false,
         "pending": false,
         "communication_disabled_until": null,
-        "is_pending": false,
         "guild_id": "200000000000000000"
     }
 }

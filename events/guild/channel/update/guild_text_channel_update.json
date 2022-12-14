@@ -1,26 +1,28 @@
 {
-    "t": "CHANNEL_DELETE",
+    "t": "CHANNEL_UPDATE",
     "s": 1,
     "op": 0,
     "d": {
         "id": "100000000000000000",
-        "type": 13,
+        "type": 0,
         "guild_id": "200000000000000000",
-        "position": 0,
+        "position": 10,
         "permission_overwrites": [
             {
                 "id": "300000000000000000",
                 "type": 0,
-                "allow": "0",
-                "deny": "1049600"
+                "allow": "1049600",
+                "deny": "0"
             }
         ],
-        "name": "events",
+        "name": "general",
         "topic": null,
         "nsfw": false,
-        "bitrate": 64000,
-        "user_limit": 10000,
+        "last_message_id": null,
+        "rate_limit_per_user": 0,
         "parent_id": "400000000000000000",
-        "rtc_region": null
+        "default_auto_archive_duration": 4320,
+        "flags": 0,
+        "default_thread_rate_limit_per_user": 0
     }
 }

@@ -11,16 +11,21 @@
                 "id": "300000000000000000",
                 "username": "Victorsitou",
                 "discriminator": "7165",
-                "avatar": "8e8ef2e87f91dcbff044813ef428154b",
-                "public_flags": 64
+                "avatar": "ad454a821e0ecfb3d8357dad0053a36b",
+                "bot": false,
+                "public_flags": 4194368
             },
             "nick": "Victor",
+            "avatar": null,
             "roles": [
                 "400000000000000000"
             ],
             "joined_at": "2022-01-16T01:06:06.869000+00:00",
+            "premium_since": null,
             "deaf": false,
-            "mute": false
+            "mute": false,
+            "pending": false,
+            "communication_disabled_until": null
         },
         "session_id": "6c9405c55ccc399c10f7d22y860cf7de",
         "deaf": false,

@@ -18,7 +18,6 @@
         "deaf": false,
         "mute": false,
         "pending": false,
-        "communication_disabled_until": null,
-        "hoisted_role": null
+        "communication_disabled_until": null
     }
 }

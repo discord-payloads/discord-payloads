@@ -11,8 +11,8 @@
         "rate_limit_per_user": 0,
         "owner_id": "400000000000000000",
         "parent_id": "500000000000000000",
-        "message_count": 8,
-        "member_count": 3,
+        "message_count": 2,
+        "member_count": 2,
         "thread_metadata": {
             "archived": false,
             "auto_archive_duration": 1440,
@@ -20,6 +20,7 @@
             "locked": false,
             "create_timestamp": "2022-02-04T21:40:36.445000+00:00"
         },
-        "flags": 0
+        "flags": 0,
+        "total_message_sent": 2
     }
 }

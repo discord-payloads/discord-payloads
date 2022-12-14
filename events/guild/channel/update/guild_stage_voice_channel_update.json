@@ -14,6 +14,7 @@
         "bitrate": 64000,
         "user_limit": 10000,
         "parent_id": "300000000000000000",
-        "rtc_region": null
+        "rtc_region": null,
+        "flags": 0
     }
 }

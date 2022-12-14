@@ -26,6 +26,7 @@
             "join_timestamp": "2022-02-04T22:12:48.307046+00:00",
             "flags": 0
         },
-        "flags": 0
+        "flags": 0,
+        "total_message_sent": 6
     }
 }

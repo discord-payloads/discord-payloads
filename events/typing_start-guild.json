@@ -12,16 +12,21 @@
                 "id": "300000000000000000",
                 "username": "Victorsitou",
                 "discriminator": "7165",
-                "avatar": "b8727f694ddcba11deb4bfbf6b59be20",
-                "public_flags": 64
+                "avatar": "ad454a821e0ecfb3d8357dad0053a36b",
+                "bot": false,
+                "public_flags": 4194368
             },
+            "nick": "Victor",
+            "avatar": null,
             "roles": [
                 "400000000000000000"
             ],
             "joined_at": "2022-01-16T01:06:06.869000+00:00",
+            "premium_since": null,
             "deaf": false,
             "mute": false,
-            "hoisted_role": "400000000000000000"
+            "pending": false,
+            "communication_disabled_until": null
         }
     }
 }
