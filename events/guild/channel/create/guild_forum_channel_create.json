@@ -18,12 +18,11 @@
         "name": "forum-channel",
         "topic": null,
         "nsfw": false,
-        "last_message_id": "400000000000000000",
+        "last_message_id": null,
         "rate_limit_per_user": 0,
-        "parent_id": "500000000000000000",
+        "parent_id": "400000000000000000",
         "flags": 0,
         "available_tags": [],
-        "default_reaction_emoji": null,
-        "default_sort_order": null
+        "default_reaction_emoji": null
     }
 }
