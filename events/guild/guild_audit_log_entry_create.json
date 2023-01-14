@@ -1,0 +1,43 @@
+{
+    "t": "GUILD_AUDIT_LOG_ENTRY_CREATE",
+    "s": 1,
+    "op": 0,
+    "d": {
+        "target_id": null,
+        "changes": [
+            {
+                "new_value": "jZV8yJpj",
+                "key": "code"
+            },
+            {
+                "new_value": "100000000000000000",
+                "key": "channel_id"
+            },
+            {
+                "new_value": "200000000000000000",
+                "key": "inviter_id"
+            },
+            {
+                "new_value": 0,
+                "key": "uses"
+            },
+            {
+                "new_value": 0,
+                "key": "max_uses"
+            },
+            {
+                "new_value": 604800,
+                "key": "max_age"
+            },
+            {
+                "new_value": false,
+                "key": "temporary"
+            }
+        ],
+        "user_id": "300000000000000000",
+        "id": "400000000000000000",
+        "action_type": 40,
+        "reason": "Invite",
+        "guild_id": "500000000000000000"
+    }
+}
